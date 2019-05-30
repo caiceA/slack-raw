@@ -1125,8 +1125,17 @@ color:#a4d677 !important
     .flex_content_scroller{
       background: #222222;}
       .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:hover{
-          background: #505050;}
-          
+          background: #505050; !important}
+          .c-color_picker__container {
+    color: white !important;}
+    .c-color_picker__input[type=text]{
+    color:white}
+    .c-fullscreen_modal__header .c-fullscreen_modal__title {
+    margin: 0;
+    color: white !important;}
+    h1, h2, h3, h4{
+    color: white !important;
+    }
     
     
 
