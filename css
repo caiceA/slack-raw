@@ -1724,7 +1724,9 @@ color:white;}
 #msg_form .ql-editor, #msg_form .ql-placeholder{
     opacity:0.4, color:white}
     .supports_custom_scrollbar .texty_legacy .ql-editor, .supports_custom_scrollbar .texty_legacy .ql-placeholder {
-    padding: 6px 30px 6px 9px;
+
     color: white !important;}
    .c-texty_input .ql-editor, [lang] .c-texty_input .ql-placeholder{
     color:white !important}
+    .c-presence--active {
+    color: #93cc93 !important;}
