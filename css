@@ -1539,7 +1539,7 @@ color:white;}
     text-overflow: ellipsis;
     color: white;}
     .c-link--button:active, .c-link--button:focus, .c-link--button:hover{
-    color:white; text-decoration:none}
+    color:white !important; text-decoration:none}
     .p-help_modal__list__item:focus, .p-help_modal__list__item:hover, .p-help_modal__list__item__focus {
     cursor: pointer;
     outline: none;
@@ -1552,3 +1552,13 @@ color:white;}
     color: #ffffff;}
     .p-shortcuts_flexpane__shortcut_hoverable .p-shortcuts_flexpane__shortcut_title {
     color: #ffffff;}
+    .p-help_modal__list__item {
+    box-shadow: none!important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    min-height: 45px;
+    border: 1px solid transparent;
+    border-top: 0 solid green;}
