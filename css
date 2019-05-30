@@ -1641,3 +1641,35 @@ color:white;}
     color: white;}
     .p-multi_file_upload__container .p-galler_scroller__wrapper{border:none}
     .fs_modal_file_viewer_header .control_btn.active, .fs_modal_file_viewer_header .control_btn:active, .fs_modal_file_viewer_header .control_btn:focus, .fs_modal_file_viewer_header .control_btn:hover, .fs_modal_file_viewer_header a.control_btn.active, .fs_modal_file_viewer_header a.control_btn:active, .fs_modal_file_viewer_header a.control_btn:focus, .fs_modal_file_viewer_header a.control_btn:hover{color:white;}
+.modal-footer {
+    background: #232323;}
+    .modal label {
+    color: #ffffff;}
+    .CodeMirror-scroll {
+    background: black;
+    color: white;}
+.CodeMirror-gutter {
+    white-space: normal;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: -30px;
+    background: #444446;
+    color: white !important;}
+    .CodeMirror .CodeMirror-linenumber {
+    color: #ffffff;}
+    .lazy_filter_select.single .lfs_input_container:after {
+ 
+    color: white;}
+#file_comment_textarea.texty_comment_input, .comment_form .texty_comment_input, .edit_comment_form .texty_comment_input {
+
+    background: #212121;}
+    .btn {
+    background: #008952;
+    color: #fff !important;}
+    .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
+    outline: none;
+    background: #d26b0c;}
+    .c-menu_item__button--danger, .c-menu_item__button--danger .c-menu_item__description, .c-menu_item__button--danger:link, .c-menu_item__button--danger:link .c-menu_item__description, .c-menu_item__button--danger:visited, .c-menu_item__button--danger:visited .c-menu_item__description {
+    color: #e01e5a !important;}
+
