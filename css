@@ -1718,6 +1718,8 @@ color:white;}
     background: #171614;}
     .c-message__editor__input--legacy {
     background: #3f3f3f;}
-    [lang] .c-menu_item__li:hover{
-    background: green ;}
-    
+
+    .c-menu_item__li:hover {
+    background: #0c77bb !important;}
+    #message_edit_form .ql-editor, #message_edit_form .ql-placeholder, #msg_form .ql-editor, #msg_form .ql-placeholder{
+    opacity:0.4}
