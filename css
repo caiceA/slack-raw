@@ -1732,3 +1732,23 @@ color:white;}
     color: #93cc93 !important;}
     select {
     background: #232323;}
+    .p-apps_browser__app_description, .p-apps_browser__app_name{
+    color:white;}
+    p-apps_browser__app_limit_meter__paragraph {
+    color: #d8d8d8;}
+    .p-apps_browser__category_header {
+    font-size: 1rem;
+    line-height: 1.2rem;
+    background: TRANSPARENT;
+    color: #ffffff;
+    padding-bottom: .5rem;}
+    .p-apps_browser__app {
+    display: flex;
+    align-items: center;
+    padding: 11px 12px;
+    border: 1px solid transparent;
+    border-top-color: #6b6b6b;}
+    .p-apps_browser__app--selected {
+    border-radius: 6px;
+    background: #2b2b2b;
+    border: 1px solid #000;}
