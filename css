@@ -1776,3 +1776,14 @@ color:white;}
     .pinned_item .pinned_message_text .pin_truncate_fade {
   
     background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#343434),color-stop(1,rgba(255,255,255,0)));}
+    #client-ui .file_list_item.file_list_item--redesign {
+    flex-wrap: wrap;
+    margin-top: 0;
+    margin-bottom: .5rem;
+    padding: 12px 12px 8px;
+    border: 1px solid #6d6d6d;}
+    .tab_container .file_list_item:focus, .tab_container .file_list_item:hover {
+    background-color: #000;}
+    .tab_container .file_list_item .actions .btn_icon{
+    background-color: #444;
+    }
