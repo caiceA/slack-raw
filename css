@@ -1592,3 +1592,22 @@ color:white;}
     border-color: #3b3b3b;}
     .p-shortcuts_flexpane__shortcut:last-of-type {
     border-bottom: 1px solid #46a091;}
+    c-keyboard_key {
+    background: #646464;
+    padding: 2px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    min-width: 24px;
+    height: 27px;
+    margin: 0 2px;
+    border-radius: 5px;
+    color: #ffffff;}
+    .p-message_pane__foreword__description, .p-message_pane__limited_history_alert {
+    color: #ffffff;}
+    .modal{
+    background:#3c3c3c;}
+    .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
+    outline: none;
+    background: transparent;}
+    .p-shortcuts_flexpane__shortcut_hoverable .p-shortcuts_flexpane__shortcut_title:hover{
+    text-decoration:none;}
