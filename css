@@ -1308,3 +1308,29 @@ background:black;}
     border-top: 5px solid #ea5218;}
     #menu.search_filter_menu label{
     color:white;}
+    .channel_header .blue_on_hover:hover {
+    color: #ffffff;}
+    .menu{
+    background: #414141;}
+    #msg_input.focus, #msg_input:focus{
+    border-color: #404040;}
+    .mention_day_container_div .day_divider:before {
+    position: absolute;
+    margin-bottom: .75rem;
+    border-bottom: 1px solid #494949;
+    background: #232323;}
+    .day_divider .day_divider_label {
+    background: #424242;
+    color: white;}
+    #edit_topic_trigger {
+    display: none;
+    visibility: hidden;
+    color: #ffffff;}
+    .channel_header_info button{
+color:white;}
+.channel_header .blue_on_hover:hover{
+color:white;}
+#edit_topic_inner:before {
+    background:transparent;
+    border: 1px solid transparent;
+    color:white}
