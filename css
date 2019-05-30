@@ -1752,3 +1752,24 @@ color:white;}
     border-radius: 6px;
     background: #2b2b2b;
     border: 1px solid #000;}
+    .p-apps_browser__app_limit_meter b {
+    color: #ffffff;}
+    .p-apps_browser__app_limit_meter__paragraph {
+    color: #cecece;}
+    .pinned_item .pinned_message_text {
+    line-height: 18px;
+    max-height: 90px;
+    overflow: auto;
+    position: relative;
+    padding-top: 2px;
+    color: white;}
+    .pinned_item .pin_member_name a, .pinned_item .pin_member_title {
+    color: #ffb15e!important;
+    font-weight: 700!important;}
+    .app_preview_link_slug, .internal_member_link, .internal_user_group_link {
+    background: #f1c877;
+    color: #000000 !important;
+    opacity: 1;
+    font-weight: 700;
+    padding: 0 4px;
+    border-radius: 3px;}
