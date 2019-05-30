@@ -1422,3 +1422,30 @@ color:white;}
     #details_tab .feature_sli_channel_insights .channel_created_section .creator_link, #details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text{color:white}
     .btn_link {
     color: #b2ddff;}
+    #channel_browser .channel_browser_row_header {
+    color: #ffffff;}
+    #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted {
+    background: #232323;
+    border: 1px solid #000000;}
+    .sk_black {
+    color: #ffffff;}
+    #channel_browser .channel_browser_channel_created_info, #channel_browser .channel_browser_channel_invite_info, #channel_browser .channel_browser_channel_shared_info, #channel_browser .channel_browser_private_channel_rollup_info {
+    font-size: 13px;
+    line-height: 1.38463;
+    font-weight: initial;
+    color: #c0c0c0;}
+    .channel_modal .channel_modal_filter_container input[type=text] {
+    width: 100%;
+    padding-left: 2.5rem;
+    padding-right: 12px;
+    padding-top: .65rem;
+    background: transparent;}
+    #channel_browser .channel_browser_divider {
+    color: #ffffff;
+    font-size: 14px;
+    width: 100%;
+    padding: 4px 0 4px 12px;
+    font-weight: 700;
+    background: #000000;}
+    #channel_browser .channel_browser_row {
+    border-top: 1px solid #676767;}
