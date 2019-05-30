@@ -1334,3 +1334,78 @@ color:white;}
     background:transparent;
     border: 1px solid transparent;
     color:white}
+    .p-message_pane__limited_history_foreword {
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    color: #ffffff;
+    background-image: url(https://a.slack-edge.com/436da/img/wave.jpg);
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-color: #383838;
+    background-image:none;}
+    .supports_custom_scrollbar:not(.slim_scrollbar) #messages_container:after{
+    background:none}
+    #channel_topic_text{
+    color: #d8d8d8;}
+    .close_flexpane:focus, .close_flexpane:hover{
+    color:white;}
+    .close_flexpane{color:white;}
+    .p-search_filter__option--suggestion, .c-message_kit__labels__text, .c-icon, .c-menu_item__link_icon, .c-menu_item__shortcut{
+        color: white;}
+        .c-calendar_view_header__stepper_btn:hover, .c-calendar_view_header__title_btn:hover {
+    background-color: #4a3f3f !important;
+    color: white;}
+    .p-search_filter__checkbox_label--selected {
+    font-weight: 700;
+    color: white;}
+    .p-search_filter__option {
+    display: flex;
+    align-items: center;
+    margin-bottom: .375rem;
+    font-weight: 700;
+    line-height: inherit;
+    font-size: inherit;
+    color: white;}
+    .c-input_select_options_list__empty_state {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #ffffff;}
+    #fs_modal .contents_container {
+    position: absolute;
+    background: #3c3c3c;
+    color: white !important;}
+    .ts_toggle .ts_toggle_secondary_label {
+    display: inline-block;
+    color: #ffffff;}
+    .modal_input_note {
+    font-size: .8rem;
+    color: #ffffff;}
+    .greigh {
+    color: #fda792!important;}
+    #new_channel_modal input[type=text], #new_channel_modal textarea, .p-share_channel_dialog__contents input[type=text], .p-share_channel_dialog__contents textarea {
+    font-size: 18px;
+    margin-bottom: 0;
+    background: transparent;}
+    .lazy_filter_select .lfs_list_container {
+    display: none;
+    position: absolute;
+    z-index: 200;
+    width: 100%;
+    max-height: 250px;
+    top: 100%;
+    left: 0;
+    overflow: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: 1px solid #232323;
+    border-radius: 4px;
+    background: #232323;}
+    .lazy_filter_select .lfs_list .lfs_item.selected, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__current-status .prevent_copy_paste, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__current-status--small:before, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__display-name, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__name, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__secondary-name {
+    color: #9ac4e5;}
+    .input_note_special {
+    font-size: .9rem;
+    line-height: 1.25rem;
+    color: #ffffff;
