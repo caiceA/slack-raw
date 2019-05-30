@@ -1669,7 +1669,7 @@ color:white;}
     color: #fff !important;}
     .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
     outline: none;
-    background: #2595b1;}
+    }
     .c-menu_item__button--danger:hover{    background: #e01e5a !important;}
     .c-file__action_button {
  
@@ -1714,3 +1714,7 @@ color:white;}
     line-height: 24px;
     font-size: 15px;
     background: TRANSPARENT !important;}
+    .c-message--highlight, .c-message--highlight_yellow_bg {
+    background: #171614;}
+    .c-message__editor__input--legacy {
+    background: #3f3f3f;}
