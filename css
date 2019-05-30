@@ -1248,4 +1248,14 @@ color:#a4d677 !important
     background: #3a3a3a;
     color: #ffffff;}
     
-    
+    #details_tab .feature_sli_channel_insights .edit_purpose--blank{
+    color:white;}
+    pre{
+    background:black;
+    color:white;
+    }
+    #menu li.team_pricing_info{
+    color:white;}
+    .c-search_autocomplete__suggestion_item .token {
+    border-radius: 2px;
+    background-color: hsl(48, 100%, 88%);}
