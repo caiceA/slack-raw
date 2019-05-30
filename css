@@ -1718,3 +1718,6 @@ color:white;}
     background: #171614;}
     .c-message__editor__input--legacy {
     background: #3f3f3f;}
+    [lang] .c-menu_item__li:hover{
+    background: green ;}
+    
