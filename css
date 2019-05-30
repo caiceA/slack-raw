@@ -1281,3 +1281,30 @@ color:#a4d677 !important
 background:black;}
 #footer{
     box-shadow: inset 1px 0 0 0 #000;}
+    .c-menu_item__button, .c-menu_item__button:link, .c-menu_item__button:visited{
+    color:white !important
+}
+.c-menu_item__description {
+    font-size: 13px;
+    line-height: .9375;
+    color: #ababab;}
+    .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight){
+    background-color: #232323;
+    }
+    .c-message_actions__container {
+    background: #000 !important;
+    box-shadow:0px 4px 5px rgba(0, 0, 0, 0.3) !important}
+    .c-message_actions__button:active {
+    background: #2b2b2b;}
+    #flex_contents .subheading:not(:empty)#mentions_options {
+    background: #000;
+    border-top: 0;
+    border-bottom: 1px solid #000;}
+    #flex_contents .help {
+    font-size: 1rem;
+    color: #ffffff;
+    line-height: 1.3rem;
+    padding-top: 1rem;
+    border-top: 5px solid #ea5218;}
+    #menu.search_filter_menu label{
+    color:white;}
