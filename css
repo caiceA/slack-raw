@@ -1107,7 +1107,7 @@ color:#a4d677 !important
     #details_tab .channel_page_section {
     background: #222222;
     position: relative;
-    border-top: 1px solid grey; color:white}
+    border-top: 1px solid #4c4c4c; color:white}
     #details_tab .channel_page_section .section_title {
     color: #f7f7f7;}
     #details_tab .channel_page_section.expanded .section_content, #details_tab .channel_page_section.expanded .ts_icon_caret_down {
@@ -1116,7 +1116,7 @@ color:#a4d677 !important
     #details_tab .conversation_details .member_info_timezone {
     line-height: 1.5;
     padding: 11px 0 11px 11px;
-    border-top: 1px solid grey;
+    border-top: 1px solid #4c4c4c;
     font-size: 14px;
     background: #222222;
     color: white;}
@@ -1195,3 +1195,5 @@ color:#a4d677 !important
     }
     .p-channel_sidebar__channel--selected{
     background: #3a3a3a !important}
+    #details_tab .channel_page_section .disclosure_triangle{
+    color:white !important;}
