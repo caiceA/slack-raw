@@ -1556,3 +1556,39 @@ color:white;}
     .p-help_modal__list__item {
   
     border-top: 0 }
+    
+    .p-help_modal__footer {
+    position: absolute;
+    bottom: 0;
+    padding: 1rem;
+    background-color: #161616;}
+    #msg_input {
+    overflow: auto;
+    margin: 0;
+    width: 100%;
+    min-height: 42px;
+    height: 38px;
+    max-height: 180px;
+    border: 2px solid rgba(134, 134, 134, 0);
+    color: #fff;}
+    #col_messages {
+    margin-left: 0;
+    position: relative;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-width: 1px;
+    box-shadow: inset 1px 0 0 0 #ddd;
+    background: #222222;}
+    .unread_empty_state_message {
+    -webkit-transition: all .4s ease 0s;
+    -moz-transition: all .4s ease 0s;
+    transition: all .4s ease 0s;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;}
+    .p-shortcuts_flexpane__shortcut {
+    border-color: #3b3b3b;}
+    .p-shortcuts_flexpane__shortcut:last-of-type {
+    border-bottom: 1px solid #46a091;}
