@@ -1773,3 +1773,6 @@ color:white;}
     font-weight: 700;
     padding: 0 4px;
     border-radius: 3px;}
+    .pinned_item .pinned_message_text .pin_truncate_fade {
+  
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#343434),color-stop(1,rgba(255,255,255,0)));}
