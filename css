@@ -1211,5 +1211,41 @@ color:#a4d677 !important
     box-shadow: inset 1px 0 0 0 #000;}
     .p-channel_insights .c-unified_member__title{
         color: #adadad;}
-        
+        .channel_page_member_row:hover {
+    background-color: #424242;
+    border-color: #000000;}
+    
+    .btn_link:focus, .btn_link:hover{
+    text-decoration:none;
+    }
+    .c-reaction{
+        background: rgb(118, 118, 118);
+        }
+        .c-reaction__count{
+        color:white 
+        }
+        .c-reaction_add{
+        opacity:1
+        background:#656565;
+        }
+        .c-reaction:hover {
+    box-shadow: inset 0 0 0 1px rgb(58, 58, 58);
+    background: #868686;}
+    .c-message_kit__labels__text, .c-icon, .c-menu_item__link_icon, .c-menu_item__shortcut{
+    color: #949494;
+    }
+    input.c-input_text, input[type=text].c-input_text, input[type=password].c-input_text{
+      border: 1px solid #000000;}
+      .p-emoji_picker__group_tab--active {
+    margin-bottom: -1px;
+    background: #515151;
+    padding-top: 3px;
+    border-bottom: 3px solid #ff5a5a;}
+    .p-emoji_picker__preview_text {
+    font-size: .9rem;
+    line-height: .9rem;
+    padding: .6rem .7rem .8rem 0;
+    background: #000000;
+    color: #ffffff;}
+    
     
