@@ -1792,3 +1792,11 @@ color:white;}
     border-color: #000000;}
     .p-channel_page_apps__list__row:hover {
     color: #ffffff;}
+    .active .tab_container .file_list_item {
+    background-color: #000;}
+    .tab_complete_ui {
+   
+    background: #000000;}
+    .tab_complete_ui .tab_complete_ui_header {
+  
+    background: #383838;
