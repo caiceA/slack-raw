@@ -1267,3 +1267,10 @@ color:#a4d677 !important
     background-color: #444;}
     .light_theme ts-message.first:not(.feature_file_threads) .message_body, .light_theme ts-message.selected:not(.feature_file_threads) .message_body{
     color:white}
+    .star_item{
+    border-bottom: 1px solid #4a4a4a;
+}
+.tab_container .file_comment_item .actions .star, .tab_container .file_list_item .actions .star, .tab_container .star_item .message .actions .star, .tab_container .star_item ts-message .actions .star{
+background:black;}
+#footer{
+    box-shadow: inset 1px 0 0 0 #000;}
