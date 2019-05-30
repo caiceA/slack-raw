@@ -1467,3 +1467,23 @@ color:white;}
     border-top: 1px solid #646464;}
     .c-unified_member__secondary-name--medium {
     color: #b0b0b0;
+}
+#im_browser_tokens #im_browser_filter, #im_browser_tokens .member_token {
+    margin-top: .25rem;
+    margin-right: 6px;
+    height: 26px;
+    line-height: 26px;
+    background: transparent;
+}
+.charcoal_grey {
+    color: #ffffff!important;}
+    .alert {
+    padding: .75rem 1rem .75rem 3rem;
+    border: 1px solid #ddd;
+    background: #595959;}
+    .alert {
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 20px;
+ text-shadow:none}
+ .btn_link:focus, .btn_link:hover {
+    color: #ffffff;}
