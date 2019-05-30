@@ -1197,3 +1197,19 @@ color:#a4d677 !important
     background: #3a3a3a !important}
     #details_tab .channel_page_section .disclosure_triangle{
     color:white !important;}
+    .fs_modal_file_viewer_header{
+    background-color: #424242;
+    }
+    .fs_modal_file_viewer_header .control_btn, .fs_modal_file_viewer_header .control_btn:link, .fs_modal_file_viewer_header .control_btn:visited, .fs_modal_file_viewer_header a.control_btn, .fs_modal_file_viewer_header a.control_btn:link, .fs_modal_file_viewer_header a.control_btn:visited{
+    color:white}
+    .fs_modal_file_viewer_content .viewer{
+    background:#232323;
+    }
+    .channel_header_info_item.channel_header_member_status #header_status_message{
+    color:white;}
+    .channel_header{
+    box-shadow: inset 1px 0 0 0 #000;}
+    .p-channel_insights .c-unified_member__title{
+        color: #adadad;}
+        
+    
