@@ -1671,4 +1671,20 @@ color:white;}
     outline: none;
     background: #2595b1;}
     .c-menu_item__button--danger:hover{    background: #e01e5a !important;}
+    .c-file__action_button {
+ 
+    background-color: hsla(0, 0%, 0%, 0.9);}
+    .c-file__action_button, .c-file__action_button:link, .c-file__action_button:visited {
+    color: #ffffff!important;}
+    .CodeMirror {
+    position: relative;
+    overflow: hidden;
+    background: #000;}
+    .c-pillow_file__snippet__content .CodeMirror {
+    height: auto;
+    border: none;
+    color: #ffffff;}
+    .c-pillow_file__snippet__content .CodeMirror-code>div:before {
+ 
+    color: rgb(255, 101, 101);}
 
