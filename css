@@ -1190,6 +1190,6 @@ color:#a4d677 !important
     background:black;
     border:1px solid black;}
     
-    .c-menu.p-emoji_picker, .p-emoji_picker__input_container, .p-emoji_picker__heading, .p-emoji_picker__list_container, .p-emoji_picker__footer{
+    .c-menu.p-emoji_picker, .p-emoji_picker__input_container, .p-emoji_picker__heading, .p-emoji_picker__list_container, .p-emoji_picker__footer, .menu #menu_items_scroller{
     background: #3a3a3a;
     }
