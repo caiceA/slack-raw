@@ -1080,6 +1080,55 @@ color:#a4d677 !important
                                                                                             .c-pillow_file--full_width .c-pillow_file__header:link{
                                                                                                 background: #232323;
                                                                                             }
+.channel_header {
+    display: flex;
+    background: #222222;}
+    
+.channel_title .channel_name {
+
+    color: #ffffff;}
+    
+    #footer{
+     background: #222222;
+    }
+    .p-channel_sidebar__name {
+    color: white;}
+    
+    .texty_legacy.texty_single_line_input .ql-editor, .texty_legacy.texty_single_line_input .ql-placeholder {
+    color: white !important;}
+    .p-flexpane_header__primary_content {
+    color: white;}
+    #flex_contents .heading {
+    border-bottom: none;
+    position: relative;
+    z-index: 50;
+    background: #222222;
+    }
+    #details_tab .channel_page_section {
+    background: #222222;
+    position: relative;
+    border-top: 1px solid grey; color:white}
+    #details_tab .channel_page_section .section_title {
+    color: #f7f7f7;}
+    #details_tab .channel_page_section.expanded .section_content, #details_tab .channel_page_section.expanded .ts_icon_caret_down {
+    display: block;
+    color: white;}
+    #details_tab .conversation_details .member_info_timezone {
+    line-height: 1.5;
+    padding: 11px 0 11px 11px;
+    border-top: 1px solid grey;
+    font-size: 14px;
+    background: #222222;
+    color: white;}
+    #details_tab .conversation_details .member_info, #details_tab .conversation_details .slackbot_info{
+    background: #222222;}
+    .flex_content_scroller{
+      background: #222222;}
+      .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:hover{
+          background: #505050;}
+          
+    
+    
 
 
                                                     
