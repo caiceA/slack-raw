@@ -1670,6 +1670,5 @@ color:white;}
     .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
     outline: none;
     background: #d26b0c;}
-    .c-menu_item__button--danger, .c-menu_item__button--danger .c-menu_item__description, .c-menu_item__button--danger:link, .c-menu_item__button--danger:link .c-menu_item__description, .c-menu_item__button--danger:visited, .c-menu_item__button--danger:visited .c-menu_item__description {
-    background: #e01e5a !important;}
+    .c-menu_item__button--danger:hover{    background: #e01e5a !important;}
 
