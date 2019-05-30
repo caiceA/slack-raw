@@ -1723,3 +1723,6 @@ color:white;}
     background: #0c77bb !important;}
 #msg_form .ql-editor, #msg_form .ql-placeholder{
     opacity:0.4, color:white}
+    .supports_custom_scrollbar .texty_legacy .ql-editor, .supports_custom_scrollbar .texty_legacy .ql-placeholder {
+    padding: 6px 30px 6px 9px;
+    color: white !important;}
