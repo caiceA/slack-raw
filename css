@@ -1787,3 +1787,8 @@ color:white;}
     .tab_container .file_list_item .actions .btn_icon{
     background-color: #444;
     }
+    .p-channel_page_apps__list__row:hover .p-channel_page_apps__list__row__wrapper {
+    background-color: #3c3c3c;
+    border-color: #000000;}
+    .p-channel_page_apps__list__row:hover {
+    color: #ffffff;}
