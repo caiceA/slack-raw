@@ -1721,5 +1721,5 @@ color:white;}
 
     .c-menu_item__li:hover {
     background: #0c77bb !important;}
-    #message_edit_form .ql-editor, #message_edit_form .ql-placeholder, #msg_form .ql-editor, #msg_form .ql-placeholder{
+.ql-placeholder{
     opacity:0.4, color:white}
