@@ -52,9 +52,7 @@ div.c-virtual_list__scroll_container {
 #team_menu_overlay {
     border-color: transparent !important;
 }
-div.c-message__content:hover {
-    background-color: #222222 !important;
-}
+
 .c-team__display-name,
 .c-unified_member__display-name,
 .c-usergroup__handle {
