@@ -1671,5 +1671,5 @@ color:white;}
     outline: none;
     background: #d26b0c;}
     .c-menu_item__button--danger, .c-menu_item__button--danger .c-menu_item__description, .c-menu_item__button--danger:link, .c-menu_item__button--danger:link .c-menu_item__description, .c-menu_item__button--danger:visited, .c-menu_item__button--danger:visited .c-menu_item__description {
-    color: #e01e5a !important;}
+    background: #e01e5a !important;}
 
