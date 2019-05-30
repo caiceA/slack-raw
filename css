@@ -1408,4 +1408,17 @@ color:white;}
     .input_note_special {
     font-size: .9rem;
     line-height: 1.25rem;
-    color: #ffffff;
+    color: #ffffff;}
+    .btn{
+        text-shadow: none;}
+        .plastic_select, input[type=url], input[type=text], input[type=tel], input[type=number], input[type=email], input[type=password], select, textarea{
+        color:white;}
+        .lazy_filter_select .lfs_list .lfs_item.active {
+    background-color: #000000;
+    border-color: #000000;}
+    .subtle_silver {
+    color: #ffffff!important;}
+    .black{font-weight:700 !important;}
+    #details_tab .feature_sli_channel_insights .channel_created_section .creator_link, #details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text{color:white}
+    .btn_link {
+    color: #b2ddff;}
