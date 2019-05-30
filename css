@@ -1449,3 +1449,6 @@ color:white;}
     background: #000000;}
     #channel_browser .channel_browser_row {
     border-top: 1px solid #676767;}
+    #details_toggle.active, #details_toggle.active:hover, #recent_mentions_toggle.active, #recent_mentions_toggle.active:hover, #sli_recap_toggle.active, #stars_toggle.active, #stars_toggle.active:hover {
+   background: transparent;
+    color: #ffb400;}
