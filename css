@@ -1634,4 +1634,10 @@ color:white;}
     background: #222222;}
     #col_messages {
     box-shadow: inset 1px 0 0 0 #000 !important;}
+    .tab_container .star_item .message .star_jump.msg_right_link, .tab_container .star_item ts-message .star_jump.msg_right_link{
+    background:black}
+    [lang] .c-message_kit__message {
+    font-size: 15px;
+    color: white;}
+    .p-multi_file_upload__container .p-galler_scroller__wrapper{border:none}
     .fs_modal_file_viewer_header .control_btn.active, .fs_modal_file_viewer_header .control_btn:active, .fs_modal_file_viewer_header .control_btn:focus, .fs_modal_file_viewer_header .control_btn:hover, .fs_modal_file_viewer_header a.control_btn.active, .fs_modal_file_viewer_header a.control_btn:active, .fs_modal_file_viewer_header a.control_btn:focus, .fs_modal_file_viewer_header a.control_btn:hover{color:white;}
