@@ -1687,4 +1687,13 @@ color:white;}
     .c-pillow_file__snippet__content .CodeMirror-code>div:before {
  
     color: rgb(255, 101, 101);}
-
+    .p-channel_sidebar__section_heading_label--clickable:hover{background:transparent}
+    .c-message__label__highlight_title {
+    color: #ffffff;
+    font-weight: 700;}
+    .c-message--sli_highlight .c-message__label__icon {
+    color: #ffd452;}
+    .c-message--pinned, .c-message--sli_highlight:not(.c-message--sli_highlight_negative), .c-message--starred {
+    background: rgb(52, 54, 56);
+    border: 1px solid #edad37;
+    border-radius: 4px;}
