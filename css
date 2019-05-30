@@ -1726,3 +1726,5 @@ color:white;}
     .supports_custom_scrollbar .texty_legacy .ql-editor, .supports_custom_scrollbar .texty_legacy .ql-placeholder {
     padding: 6px 30px 6px 9px;
     color: white !important;}
+   .c-texty_input .ql-editor, [lang] .c-texty_input .ql-placeholder{
+    color:white}
