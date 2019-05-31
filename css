@@ -1263,7 +1263,7 @@ color:#a4d677 !important
     color:white;}
     .c-search_autocomplete__suggestion_item .token {
     border-radius: 2px;
-    background-color: hsl(48, 100%, 88%);}
+ background-color: hsl(39, 100%, 81%);}
     
     .c-menu_item__button, .c-menu_item__button:link, .c-menu_item__button:visited{
     color:white}
@@ -1804,3 +1804,14 @@ color:white;}
     .tab_complete_ui ul.type_members .unify_broadcast {
 
     color: #ffe34b;}
+    .p-file_upload_banner__progress {
+    border-radius: 6px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: #2b5043;}
+    #select_share_channels .lazy_filter_select .lfs_value .lfs_item.selected {
+    height: 28px;
+    color: #ffffff;}
+    .modal .close {
+    color: #ffffff;}
