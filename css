@@ -1834,3 +1834,6 @@ color:white;}
     
     #team_tab #member_preview_scroller .member_details .member_title:not(:empty) {
     color: #cccccc;}
+.p-custom_status_input__dialog .p-custom_status_input__preset_option_text {
+
+    color: wheat;}
