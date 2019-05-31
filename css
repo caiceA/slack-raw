@@ -1837,3 +1837,5 @@ color:white;}
 .p-custom_status_input__dialog .p-custom_status_input__preset_option_text {
 
     color: wheat;}
+    .c-dialog__close:hover {
+    color: #ffffff;}
