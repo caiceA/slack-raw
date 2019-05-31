@@ -1819,3 +1819,13 @@ color:white;}
     color: white;}
     .modal .close:hover{
     color:white}
+    .c-label__text{
+    color:white}
+    #team_tab #member_preview_scroller {
+    width: 100%;
+    background: #222222;}
+    #member_preview_scroller .member_data_table td, #member_preview_web_container .member_data_table td, .menu_member_header .member_data_table td {
+
+    color: white;}
+    hr {
+    border-top: 1px solid #575757;}
