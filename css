@@ -1862,3 +1862,6 @@ background-color:black}
     color: #ffffff;}
     .p-prefs_modal__notification_example.p-prefs_modal__notification_example--mac {
     background: #5d5d5d;}
+    #team_tab #member_preview_scroller .member_details .member_name {
+   
+    color: white !important;}
