@@ -1848,3 +1848,9 @@ color:white;}
     background: #3c3c3c;}
     .c-message__editor__emoji_circle_icon, .c-message__editor__emoji_happy_icon, .c-message__editor__emoji_smile_icon {
     color: rgb(154, 154, 154);}
+    .c-message__reply_bar_description {
+    position: relative;
+    margin-left: 8px;
+    color: #b1b1b1;}
+    .c-message__reply_bar:hover, .c-message__reply_bar--focus {
+    border: 1px solid black;}
