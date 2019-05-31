@@ -1839,3 +1839,8 @@ color:white;}
     color: wheat;}
     .c-dialog__close:hover {
     color: #ffffff;}
+    .c-alert--inline, .c-alert--nested_box {
+    color: #e7e7e7;}
+    [lang] .c-message_attachment__body {
+   
+    color: wheat;}
