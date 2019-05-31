@@ -1846,3 +1846,5 @@ color:white;}
     color: wheat;}
     .c-message_kit__background--editing {
     background: #3c3c3c;}
+    .c-message__editor__emoji_circle_icon, .c-message__editor__emoji_happy_icon, .c-message__editor__emoji_smile_icon {
+    color: rgb(154, 154, 154);}
