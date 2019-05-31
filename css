@@ -1263,7 +1263,7 @@ color:#a4d677 !important
     color:white;}
     .c-search_autocomplete__suggestion_item .token {
     border-radius: 2px;
- background-color: hsl(39, 100%, 81%);}
+ background-color: hsl(39, 100%, 79%) !important;}
     
     .c-menu_item__button, .c-menu_item__button:link, .c-menu_item__button:visited{
     color:white}
@@ -1699,7 +1699,7 @@ color:white;}
     border-radius: 4px;}
     .c-search_autocomplete__suggestion_item .token {
     border-radius: 2px;
-    background-color: hsl(48, 100%, 88%);
+ 
     z-index: 99999;
     position: relative;
     color: black;}
@@ -1831,3 +1831,6 @@ color:white;}
     border-top: 1px solid #575757;}
    .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list:not(.c-virtual_list--scrollbar):before {
     box-shadow: 0 32px #222222;}
+    
+    #team_tab #member_preview_scroller .member_details .member_title:not(:empty) {
+    color: #cccccc;}
