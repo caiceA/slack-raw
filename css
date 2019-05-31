@@ -1854,3 +1854,11 @@ color:white;}
     color: #b1b1b1;}
     .c-message__reply_bar:hover, .c-message__reply_bar--focus {
     border: 1px solid black;}
+.c-select_button{
+background-color:black}
+.c-select_button:active {
+    background-color: #000000;}
+    .c-select_button:active .c-select_button__icon, .c-select_button:hover .c-select_button__icon {
+    color: #ffffff;}
+    .p-prefs_modal__notification_example.p-prefs_modal__notification_example--mac {
+    background: #5d5d5d;}
