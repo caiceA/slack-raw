@@ -1865,3 +1865,9 @@ background-color:black}
     #team_tab #member_preview_scroller .member_details .member_name {
    
     color: white !important;}
+    
+    hr{    border-bottom: 1px solid #424242;}
+    .p-threads_flexpane__separator_line {
+    flex: 1;
+    margin: 1px 0 0 0;
+    border-top-color: rgb(0, 0, 0);}
