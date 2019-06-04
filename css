@@ -1878,3 +1878,6 @@ border: 1px solid transparent !important;
 .p-emoji_picker__group_tab:hover {
  
     background: #5d5d5d;}
+    .c-fullscreen_modal__close--with_header:hover {
+    background-color: transparent;
+    color: white;
