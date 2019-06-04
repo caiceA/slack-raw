@@ -1872,7 +1872,7 @@ background-color:black}
     margin: 1px 0 0 0;
     border-top-color: rgb(0, 0, 0);}
     
-.c-sidebar_menu__list_item{
+.c-sidebar_menu__list_item.c-link--button:hover{
 border: 1px solid transparent !important;
 }
 .p-emoji_picker__group_tab:hover {
