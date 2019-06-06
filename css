@@ -1880,4 +1880,6 @@ border: 1px solid transparent !important;
     background: #5d5d5d;}
     .c-fullscreen_modal__close--with_header:hover {
     background-color: transparent;
-    color: white;
+    color: white;}
+    .c-reaction--reacted .c-reaction__count {
+    color: #ffffff;}
