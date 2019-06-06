@@ -1885,3 +1885,24 @@ border: 1px solid transparent !important;
     color: #ffffff;}
     .c-reaction__count {
     color: white !important;}
+    .light_theme ts-message .message_body {
+    display: block;
+    color: wheat;}
+    
+    .unread_group_header {
+    -ms-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    border-top: 1px solid #000;
+    background: #363636;
+    color: #ffffff;}
+    .ts_icon:before, ts-icon:before {
+    color: white;
+    }
+    #unread_msgs_div .day_divider .day_divider_line {
+    border-top: 1px solid #3c3c3c;}
+    ts-message .action_hover_container .btn_msg_action {
+ 
+    background: #181818;}
+    
