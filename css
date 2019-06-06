@@ -1883,3 +1883,5 @@ border: 1px solid transparent !important;
     color: white;}
     .c-reaction--reacted .c-reaction__count {
     color: #ffffff;}
+    .c-reaction__count {
+    color: white !important;}
