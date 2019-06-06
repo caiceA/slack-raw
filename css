@@ -1887,7 +1887,7 @@ border: 1px solid transparent !important;
     color: white !important;}
     .light_theme ts-message .message_body {
     display: block;
-    color: wheat;}
+    color:white !important;}
     
     .unread_group_header {
     -ms-box-sizing: content-box;
