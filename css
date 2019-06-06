@@ -1920,3 +1920,6 @@ border: 1px solid transparent !important;
 .file_container.image_container .preview_actions.overflow_preview_actions {
  
     background: rgba(0, 0, 0, 0.3);}
+    .light_theme ts-message .message_body {
+    display: block;
+    color: white;}
