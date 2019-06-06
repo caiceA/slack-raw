@@ -1905,4 +1905,12 @@ border: 1px solid transparent !important;
     ts-message .action_hover_container .btn_msg_action {
  
     background: #181818;}
+    .file_container.image_container .preview_actions.overflow_preview_actions {
+ 
+    border: .0625rem solid rgba(0, 0, 0, 0.1);
+    background: rgba(40, 40, 40, 0.9);}
     
+    .file_container.image_container .image_body {
+  
+    background-color: #2c2c2c;
+        }
