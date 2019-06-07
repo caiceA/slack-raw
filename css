@@ -1923,3 +1923,5 @@ border: 1px solid transparent !important;
     .light_theme ts-message .message_body {
     display: block;
     color: white;}
+#fs_modal #fs_modal_header, #fs_modal #fs_modal_footer{
+background:#232323;}    
