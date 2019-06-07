@@ -1925,3 +1925,8 @@ border: 1px solid transparent !important;
     color: white;}
 #fs_modal #fs_modal_header, #fs_modal #fs_modal_footer{
 background:#232323;}    
+.c-icon{
+color:#acacac;}
+.ts_icon_happy_smile:before {
+    content: '\E119';
+    color: #5b5b5b !important;}
