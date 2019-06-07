@@ -1930,3 +1930,10 @@ color:#acacac;}
 .ts_icon_happy_smile:before {
     content: '\E119';
     color: #5b5b5b !important;}
+    ts-message .action_hover_container .btn_msg_action.active, ts-message .action_hover_container .btn_msg_action:active {
+    background: #383838;}
+    .c-icon {
+    color: #ffffff;}
+    .p-channel_sidebar__link--selected{
+    background: #2e2e2e;
+    }
