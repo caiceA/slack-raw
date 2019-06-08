@@ -1935,5 +1935,9 @@ color:#acacac;}
     .c-icon {
     color: #ffffff;}
     .p-channel_sidebar__link--selected{
-    background: #2e2e2e;
+    background: #2e2e2e !important;
     }
+    ts-message .reply_bar:hover {
+    background: #3c3c3c;
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 6px;}
