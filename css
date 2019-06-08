@@ -1970,3 +1970,6 @@ padding-top:2px;}
    #details_tab .restricted_members_count{
    color:white}
     }
+    .presence_icon:before {
+ 
+    color: #31d940 !important;}
