@@ -1945,3 +1945,6 @@ color:#acacac;}
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
 padding-top:2px;}
+#channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover:not(.disabled), #channel_browser .channel_browser_row.highlighted {
+    background: #222222;
+    border: 1px solid #000000;}
