@@ -1976,3 +1976,6 @@ padding-top:2px;}
     .ts_icon_presence:before {
  
     color: #1fdf4e !important;}
+    .away>.ts_icon_presence:before {
+
+    color: #b0b0b0 !important;}
