@@ -1959,3 +1959,6 @@ padding-top:2px;}
     color:white !important}
     .c-message--standalone {
     border: 1px solid #666 !important;}
+    .c-dialog__content {
+    background: #333539!important;
+    color:white !important;}
