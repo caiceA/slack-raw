@@ -1948,3 +1948,6 @@ padding-top:2px;}
 #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover:not(.disabled), #channel_browser .channel_browser_row.highlighted {
     background: #222222;
     border: 1px solid #000000;}
+    #fs_modal .fs_modal_btn:hover {
+    color: #ffffff;
+    background: #222222;}
