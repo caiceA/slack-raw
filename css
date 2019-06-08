@@ -1965,7 +1965,7 @@ padding-top:2px;}
     .bottom_mark_all_read {
 
     border-top: 1px solid #444;}
-    .c-unified_member--small .presence .presence_icon i:before{
+    .c-unified_member--small .presence .presence_icon i::before{
     color:#5cf8ad;}
    #details_tab .restricted_members_count{
    color:white}
