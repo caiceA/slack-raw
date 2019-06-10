@@ -1990,4 +1990,8 @@ padding-top:2px;}
     line-height: 26px;}
     .dialog_cancel{
     background:black !important;}
+    .channel_option_item:hover {
+    background: #1f1f1f;}
+    .channel_option_item {
+    border-top: 1px solid #656565;}
 
