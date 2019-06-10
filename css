@@ -1979,3 +1979,15 @@ padding-top:2px;}
     .away>.ts_icon_presence:before {
 
     color: #b0b0b0 !important;}
+    .modal-body {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    padding: 0 24px 10px;
+    margin-top: 10px;
+    color: white;
+    line-height: 26px;}
+    .dialog_cancel{
+    background:black !important;}
+
