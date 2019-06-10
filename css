@@ -1992,6 +1992,6 @@ padding-top:2px;}
     background:black !important;}
     .channel_option_item:hover {
     background: #1f1f1f;}
-    .channel_option_item {
+    .channel_option_item:hover {
     border-top: 1px solid #656565;}
 
