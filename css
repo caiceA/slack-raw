@@ -2011,3 +2011,6 @@ padding-top:2px;}
 color:white !important}
 channel_invite_tokens input {
 background: transparent !important}
+#channel_invite_tokens #channel_invite_filter:first-child {
+  
+    background: transparent;}
