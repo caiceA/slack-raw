@@ -1995,4 +1995,8 @@ padding-top:2px;}
     background: #1f1f1f;}
     .channel_option_item:hover {
     border-top: 1px solid #656565;}
+    
+    .c-message_list__day_divider__label__pill{
+    font-size: 12px;
+    }
 
