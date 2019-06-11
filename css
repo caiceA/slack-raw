@@ -2005,4 +2005,7 @@ padding-top:2px;}
     .c-message_list__day_divider__label__pill{
     font-size: 12px;
     }
-
+    .c-card_carousel__btn {
+    background: #000;}
+.p-app_profile_flexpane_header__button{
+color:white !important}
