@@ -12,14 +12,14 @@ div.c-message.c-message--light.c-message--hover {
 .c-message__sender a {
     font-weight: 600;
     color: white !important;
-    font-size: 15px !important;
+    font-size: 14px !important;
 }
 span.c-message__body,
 a.c-message__sender_link,
 span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,
 div.p-message_pane__foreword__description span {
     color: white;
-    font-size: 15px;
+    font-size: 14px;
     letter-spacing: 0.3px !important;
 }
 div.c-virtual_list__scroll_container {
@@ -132,6 +132,7 @@ ts-message .mention {
     color: #ffce8e!important;
     font-weight: 600 !important;
     border: none !important;
+    font-size:13px;
    }
 .menu_content a {
     color: white !important;
@@ -447,7 +448,7 @@ p-search_filter__date:first-child {
     color: green !important;
 }
 .p-channel_sidebar {
-    font-size: 15px !important;
+    font-size: 14px !important;
 }
 .c-file__meta {
     background: blue !important;
