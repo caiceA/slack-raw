@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 body {
-   font-family: 'Muli', sans-serif;
+   font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
