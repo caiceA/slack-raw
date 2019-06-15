@@ -2026,3 +2026,5 @@ background: transparent !important}
 .c-base_list_entity--small:hover, .c-base_list_entity--small:hover:hover {
     color: #fff;
     background-color: transparent !important;}
+    .c-search_autocomplete__suggestion_item:hover {
+    background: #33414a;}
