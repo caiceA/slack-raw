@@ -2019,3 +2019,10 @@ background: transparent !important}
     color:white}
     .p-starred_item {
     border-bottom: 1px solid #464646;}
+    .c-small_mpim_entity__count{
+    background-color: #7ab210;
+    color: #fff;
+    }
+.c-base_list_entity--small:hover, .c-base_list_entity--small:hover:hover {
+    color: #fff;
+    background-color: transparent !important;}
