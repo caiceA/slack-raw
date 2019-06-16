@@ -2028,3 +2028,7 @@ background: transparent !important}
     background-color: transparent !important;}
     .c-search_autocomplete__suggestion_item:hover {
     background: #33414a;}
+.ts_icon_arrow_large_left:before {
+    color: black !important;}
+    .ts_icon_arrow_large_right:before {
+    color: black !important;
