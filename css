@@ -134,12 +134,15 @@ ts-message .mention {
     text-shadow: none;
 }
 .c-member_slug--link {
-    background: none !important;
-    color: #ffce8e!important;
+  background: #774fe4;
+        color: #ffffff!important;
     font-weight: 600 !important;
     border: none !important;
     font-size:13px;
+    padding:1px 2px;
    }
+   .c-member_slug--link:hover {
+    background: #de5ea2;}
 .menu_content a {
     color: white !important;
 }
@@ -363,10 +366,7 @@ p-search_filter__date:first-child {
     align-items: center;
     background-color: #545454;
 }
-.c-member_slug--link,
-.c-member_slug--mention {
-    padding: 0!important;
-}
+
 .p-channel_insights__message ts-message.standalone:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display) {
     background-color: black !important;
     border: 1px solid #545454 !important;
