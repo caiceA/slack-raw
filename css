@@ -134,8 +134,8 @@ ts-message .mention {
     text-shadow: none;
 }
 .c-member_slug--link {
- background: #6946c9;
-        color: #ffffff!important;
+    background: #534098;
+    color: #ddd7ec!important;
     font-weight: 600 !important;
     border: none !important;
     font-size:13px;
