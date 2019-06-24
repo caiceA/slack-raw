@@ -134,12 +134,12 @@ ts-message .mention {
     text-shadow: none;
 }
 .c-member_slug--link {
-  background: #774fe4;
+ background: #6946c9;
         color: #ffffff!important;
     font-weight: 600 !important;
     border: none !important;
     font-size:13px;
-    padding:1px 2px;
+  padding: 0px 2px 1px 2px;
    }
    .c-member_slug--link:hover {
     background: #de5ea2;}
