@@ -2032,4 +2032,9 @@ background: transparent !important}
 .ts_icon_arrow_large_left:before {
     color: black !important;}
     .ts_icon_arrow_large_right:before {
-    color: black !important;
+    color: black !important;}
+    .c-message__broadcast_preamble_link {
+    font-weight: 500 !important;
+    margin-right: 4px;
+    margin-left: 4px;
+    color: #5cfff4 !important;
