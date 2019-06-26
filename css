@@ -95,8 +95,9 @@ ts-message .app_preview_link_slug,
 ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
-    background: #fbd9a5 !important;
-    color: black !important;
+   color: #fecd8a !important;
+    font-size: 14px;
+   background: transparent
 }
 .btn {
     background: #008952;
@@ -771,7 +772,7 @@ background: green !important;
     color: #6f6f6f !important;
 }
 ts-message .internal_member_link:hover {
-  color: #000000 !important;
+  color: #c8a1ff !important;
 }
 #primary_file_button .ts_icon{
     bottom:-5px;
