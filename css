@@ -2038,3 +2038,13 @@ background: transparent !important}
     margin-right: 4px;
     margin-left: 4px;
     color: #5cfff4 !important;
+}
+.c-message_attachment__author_name{
+
+color:white;
+}
+.supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-track {
+    background: #505050;}
+    .supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-track{
+    background: #505050;
+    }
