@@ -2048,3 +2048,6 @@ color:white;
     .supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-track{
     background: #505050;
     }
+.pinned_message_file .file_container {
+    min-width: 192px;
+    background: #1b1b1b;}
