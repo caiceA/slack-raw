@@ -2051,3 +2051,18 @@ color:white;
 .pinned_message_file .file_container {
     min-width: 192px;
     background: #1b1b1b;}
+    .cm-s-default .cm-def {
+    color: #86efbc;}
+    .cm-s-default .cm-string {
+    color: #faff83;}
+    .cm-s-default .cm-keyword {
+    color: #ffa9c3;}
+    .cm-s-default .cm-variable-2 {
+    color: #8bb1ff;
+}
+.cm-s-default .cm-comment {
+    color: #7a7a7a;
+}
+.cm-s-default .cm-string-2 {
+    color: #ffa081;
+}
