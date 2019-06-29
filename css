@@ -2071,3 +2071,6 @@ background: transparent !important}
 .c-icon--small-reaction:before {
     content: "\E170";
     color: #939393;}
+#messages_container {
+    overflow-y: hidden;
+    background: transparent;}
