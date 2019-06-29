@@ -2068,3 +2068,6 @@ color:white;
 }
 .c-file__actions--overflow{
 background: transparent !important}
+.c-icon--small-reaction:before {
+    content: "\E170";
+    color: #939393;}
