@@ -2097,3 +2097,6 @@ background-color: #343434 !important;
     box-shadow: none !important;}
     .supports_custom_scrollbar #flex_contents .subheading:not(:empty){
     width:100% !important}
+ts-message .internal_member_link:hover {
+    color: #ffffff !important;
+    background: #7b3ac2;}
