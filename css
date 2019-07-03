@@ -2092,3 +2092,8 @@ background-color: #343434 !important;
     box-shadow:none !important}
     .supports_custom_scrollbar:not(.slim_scrollbar) .flex_content_scroller::-webkit-scrollbar-thumb{
     box-shadow:none !important}
+.supports_custom_scrollbar:not(.slim_scrollbar) #unread_msgs_scroller_div::-webkit-scrollbar-thumb {
+    background: rgba(29,28,29,.52);
+    box-shadow: none !important;}
+    .supports_custom_scrollbar #flex_contents .subheading:not(:empty){
+    width:100% !important}
