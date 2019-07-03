@@ -2084,3 +2084,11 @@ background-color: #343434 !important;
     background: #3a3a3a;}
     .c-search_message__reactions{
     color: #b4b4b4;}
+.supports_custom_scrollbar:not(.slim_scrollbar) #unread_msgs_scroller_div::-webkit-scrollbar-track {
+    background: #3d3d3d;
+    box-shadow:none !important}
+    .supports_custom_scrollbar:not(.slim_scrollbar) .flex_content_scroller::-webkit-scrollbar-track {
+    background: #4f4f4f !important;
+    box-shadow:none !important}
+    .supports_custom_scrollbar:not(.slim_scrollbar) .flex_content_scroller::-webkit-scrollbar-thumb{
+    box-shadow:none !important}
