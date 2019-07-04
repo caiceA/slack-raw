@@ -2103,3 +2103,14 @@ ts-message .internal_member_link:hover {
 .c-message_attachment__pretext {
     color: #ffffff;
 }
+.c-app_badge, .c-app_label {
+    border-radius: 2px;
+    font-size: 11px;
+    padding: 1px 3px;
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgb(142, 60, 245);
+    display: inline-block;
+    height: 14px;
+    line-height: 1.25;
+    font-weight: 700;
+    vertical-align: .125rem;}
