@@ -2100,3 +2100,6 @@ background-color: #343434 !important;
 ts-message .internal_member_link:hover {
     color: #ffffff !important;
     background: #7b3ac2;}
+.c-message_attachment__pretext {
+    color: #ffffff;
+}
