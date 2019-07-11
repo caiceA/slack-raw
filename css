@@ -2114,3 +2114,8 @@ ts-message .internal_member_link:hover {
     line-height: 1.25;
     font-weight: 700;
     vertical-align: .125rem;}
+    .c-pillow_file__post__content code, 
+.c-pillow_file__post__content pre,
+.c-pillow_file__post__content ul.checklist {
+    background: black;
+}
