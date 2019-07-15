@@ -2228,3 +2228,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color:white !important}
     .c-message_kit__inline_channel_context {
     color: #fba2ac;}
+    .p-search_filter__from_name, .p-search_filter__in_channel, .p-search_filter__in_channel .c-channel_name__team_name, .p-search_filter__in_channel .c-channel_name__text, .p-search_filter__in_member {
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    color: white;}
