@@ -2119,3 +2119,62 @@ ts-message .internal_member_link:hover {
 .c-pillow_file__post__content ul.checklist {
     background: black;
 }
+span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
+    color: white;
+    font-size: 14px;
+    letter-spacing: -0.3px !important;}
+    .p-workspace--classic-nav .p-workspace__primary_view_footer {
+    background: #222222 !important;}
+    .p-workspace__input .p-message_input_field {
+    background: #474747;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #000000;
+    min-height: 42px;
+    min-width: 1px;
+    padding-left: 10px;
+    padding-top: 0;
+    padding-bottom: 8px;
+    flex: 1;
+    padding-left: 43px;
+    z-index: 200;
+    color: white;}
+    .c-member_slug--link{
+    font-size:14px !important}
+    .c-texty_autocomplete {
+    background: #000;}
+    .c-texty_autocomplete__help {
+    background: #222222;}
+    .p-classic_nav__drag {
+    -webkit-app-region: drag;
+    background: #222222;
+    color:white}
+    .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
+    background:transparent !important}
+    .p-classic_nav__model__title__info__members, .p-classic_nav__model__title__info__pins, .p-classic_nav__model__title__info__presence {
+    display: flex;
+    align-items: baseline;
+    color: white;}
+    .p-classic_nav__model__title__info__topic__text {
+    position: relative;
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: white;}
+    .p-classic_nav__model__title__info__topic--focus-within .p-classic_nav__model__title__info__topic__text:before, .p-classic_nav__model__title__info__topic:hover .p-classic_nav__model__title__info__topic__text:before{
+        background: #494949 !important;}
+        .p-classic_nav__model__title__info__topic:hover .p-classic_nav__model__title__info__topic__edit, .p-classic_nav__model__title__info__topic__edit.c-button--focus-visible {
+    display: block;
+    color: #ffb99c !important;}
+    .p-classic_nav__right__search {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    cursor: pointer;
+    border: 1px solid rgb(113, 113, 113) !important;}
+    .p-classic_nav__right__search:hover .p-classic_nav__right__search__icon {
+    color: #ffffff;}
+    .p-classic_nav__right__search:hover .p-classic_nav__right__search__placeholder {
+    color: #ffffff !important}
