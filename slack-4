@@ -2106,7 +2106,7 @@ ts-message .internal_member_link:hover {
     border-radius: 2px;
     font-size: 11px;
     padding: 1px 3px;
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 1) !important;
     background-color: rgb(142, 60, 245);
     display: inline-block;
     height: 14px;
