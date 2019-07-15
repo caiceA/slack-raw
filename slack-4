@@ -2233,3 +2233,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     overflow-x: hidden;
     text-overflow: ellipsis;
     color: white;}
+   .sk_dark_gray, .sk_dark_grey {
+    color: #c186ea;}
+    .c-virtual_list__item, .c-virtual_list__sticky_container{
+    border-bottom:1px solid black !important}
