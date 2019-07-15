@@ -2299,3 +2299,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     display: flex;
     padding: 0 16px 12px 16px;
     border-bottom: 1px solid #333333;}
+    .p-classic_nav__model__title__name--dim{
+    color: rgba(144, 144, 144, 0.7) !important;}
+    .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
+    box-shadow:none !important}
