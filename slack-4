@@ -2241,9 +2241,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     padding: 16px 16px 20px 16px;
     border-bottom: 1px solid black;}
     .p-classic_nav__team_header {
-    background: #222222;}
+    background: #222222 !important;}
     .p-channel_sidebar {
-    background: #222222;}
+    background: #222222 !important;}
     .c-mrkdwn__broadcast--mention{
     background: #9651f9 !important;
     color:white !important;
@@ -2251,3 +2251,12 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .c-mrkdwn__broadcast--mention:hover{
     background:#ec51f9;
     color:white !important}
+    .p-flexpane__body--empty {
+    align-items: center;
+    background-color: #141414 . !important;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding: 0 24px;
+    text-align: center;
+    color: white !important;
