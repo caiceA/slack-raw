@@ -303,8 +303,7 @@ ts-message .mention {
 .c-pillow_file__description {
     color: #cacbcc !important;
 }
-.c-mrkdwn__broadcast--mention,
-.c-mrkdwn__broadcast--mention:hover,
+
 .c-mrkdwn__highlight,
 .c-mrkdwn__mention,
 .c-mrkdwn__mention:hover,
@@ -2245,3 +2244,10 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     background: #222222;}
     .p-channel_sidebar {
     background: #222222;}
+    .c-mrkdwn__broadcast--mention{
+    background: #9651f9 !important;
+    color:white !important;
+    }
+    .c-mrkdwn__broadcast--mention:hover{
+    background:#ec51f9;
+    color:white !important}
