@@ -2185,7 +2185,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color:white !important}
     .c-member_name {
     margin-right: 4px;
-    color: #ff9e8c; !important}
+    color: white; !important}
     .c-message_kit__pillow {
     background: #000;}
     .p-highlights_section__group_title_label {
@@ -2259,4 +2259,12 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     justify-content: center;
     padding: 0 24px;
     text-align: center;
-    color: white !important;
+    color: white !important;}
+    
+    .p-pinned_items__empty_list .p-pinned_items__empty_list_action {
+    color: #ffb672 !important;}
+    .p-channel_details_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px solid rgb(51, 51, 51) !important;}
