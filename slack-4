@@ -2305,3 +2305,6 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     box-shadow: 0 0 0 3px rgb(14,14,14), 0 0 0 6px #31dad2 !important;}
     .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before{
     box-shadow:none !important}
+.c-team_icon--default {
+    flex-shrink: 0;
+    background-color: #383c4a !important;}
