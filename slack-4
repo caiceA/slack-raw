@@ -2295,3 +2295,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     grid-template-areas: "p-workspace__primary_view_contents";
     grid-template-rows: auto;
     border-left: 1px solid #404040;}
+    .p-member_profile_field {
+    display: flex;
+    padding: 0 16px 12px 16px;
+    border-bottom: 1px solid #333333;}
