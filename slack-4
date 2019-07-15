@@ -2241,3 +2241,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .p-activity_flexpane__item_gutter {
     padding: 16px 16px 20px 16px;
     border-bottom: 1px solid black;}
+    .p-classic_nav__team_header {
+    background: #222222;}
+    .p-channel_sidebar {
+    background: #222222;}
