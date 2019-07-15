@@ -2220,3 +2220,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     overflow-x: hidden;
     text-overflow: ellipsis;
     color: #ffabab !important;}
+    .c-message--adjacent:hover .c-message__gutter {
+    opacity: 1;
+    margin-top: -6px !important;}
+    .c-basic_unified_entity__lable{
+    color:white !important}
