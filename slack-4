@@ -2225,3 +2225,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     margin-top: -6px !important;}
     .c-basic_unified_entity__lable{
     color:white !important}
+    .c-message_kit__inline_channel_context {
+    color: #fba2ac;}
