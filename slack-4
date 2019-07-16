@@ -2379,3 +2379,8 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: #ffffff !important;}
     .p-channel_details__subtitle {
     color: #f9a1b8 !important;}
+    .p-channel_details__notification_prefs_section__pref, .p-channel_details__notification_prefs_section__pref_label {
+    display: block;
+    padding-bottom: 8px;
+    color: #a6a6a6 !important;
+}
