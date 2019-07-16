@@ -2384,3 +2384,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     padding-bottom: 8px;
     color: #a6a6a6 !important;
 }
+.c-message__editor__input {
+    background: #222222 !important; }
