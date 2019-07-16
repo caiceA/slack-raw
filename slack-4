@@ -2308,3 +2308,69 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 .c-team_icon--default {
     flex-shrink: 0;
     background-color: #383c4a !important;}
+    .p-channel_create_modal__label_title strong {
+    color: #ffffff !important;}
+    .p-invite_users_input__label_title strong {
+    color: #ffffff !important;}
+    .p-channel_create_modal__input_subtext {
+    padding-top: 4px;
+    font-size: 13px;
+    line-height: 1.38463;
+    font-weight: 400;
+    color: rgb(187, 187, 187);}
+    .p-channel_create_modal, .p-channel_create_modal__label_title, .p-channel_create_modal__private_toggle_copy_body, .p-channel_create_modal__private_toggle_copy_title, .p-channel_create_modal__share, .p-channel_name_input__label_title, .p-invite_users_input__label_title {
+    font-size: 15px;
+    line-height: 1.46668;
+    font-weight: 400;
+    color: white !important;
+}
+.c-multi_select_input {
+    position: relative;
+    border-radius: 4px;
+    border: 1px solid #868686;
+    transition: border 80ms ease-out,box-shadow 80ms ease-out;
+    overflow: hidden;
+    min-height: 36px;
+    background-color: #222222 !important;}
+    .p-invite_users_input__input_subtext {
+    padding-top: 4px;
+    font-size: 13px;
+    line-height: 1.38463;
+    font-weight: 400;
+    color: rgb(255, 255, 255) !important;}
+    .p-dm_browser_modal__list_heading {
+    font-size: 13px;
+    line-height: 1.38463;
+    font-weight: 400;
+    color: rgb(255, 255, 255) !important;}
+    .c-base_entity__metadata, .c-base_entity__subtext {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: rgb(255, 255, 255) !important; }
+    .p-dm_browser_modal__list_row_meta {
+    font-size: 13px;
+    line-height: 1.38463;
+    font-weight: 400;
+    color: rgb(255, 255, 255) !important;}
+    .p-channel_create_modal__share {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    color: rgba(29,28,29,.7);
+    background-color: #000 !important;}
+    .c-alert--boxed {
+    color: #ffffff !important;}
+    .p-dm_browser_modal__controls_meta {
+    font-size: 13px;
+    line-height: 1.38463;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.7) !important;}
+    .p-classic_nav__right__search:hover .p-classic_nav__right__search__text {
+    color: #96fff2 !important;}
+    .p-apps_browser_links__link {
+    margin-right: 24px;
+    color: #ffffff !important;}
+    .p-channel_details__subtitle {
+    color: #f9a1b8 !important;}
