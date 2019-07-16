@@ -154,6 +154,11 @@ ts-message .mention {
 .c-member_slug--mention:hover {
     background: #fbd9a5 !important;
     color: black !important;
+    overflow: hidden;
+    line-height: 16px !important;
+    display: inline-block;
+    position: relative;
+    top: 4px;
 }
 #convo_tab .message_input,
 #convo_tab textarea#msg_text {
