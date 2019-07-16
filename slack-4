@@ -2235,7 +2235,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
    .sk_dark_gray, .sk_dark_grey {
     color: #c186ea;}
 .p-team_sidebar__unread_dot {
-    background: #ff4bb2;
+    background:#ff8960 !important;
 }
 .p-activity_flexpane__item_gutter {
     padding: 16px 16px 20px 16px;
