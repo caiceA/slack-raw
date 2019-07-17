@@ -2437,8 +2437,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: rgb(247, 183, 150) !important;}
     .p-classic_nav__team_messages_progress_bar_text{
     fill: white !important}
-.c-select_options_list__wrapper {
+      .c-select_options_list__wrapper {
     background-color: #4f4e4e !important; }
+    
     .c-select_options_list__option {
     font-size: 15px;
     line-height: 1.46668;
