@@ -2460,7 +2460,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     background-color: #222222 !important;}
     .p-message_pane_input__preview_metadata {
     color: rgba(255, 255, 255, 0.7) !important;}
-    c-base_inline_entity__primary_content {
+    .c-base_inline_entity__primary_content {
     display: inline;
     white-space: pre-wrap;
     overflow-wrap: break-word;
