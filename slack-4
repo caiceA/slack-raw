@@ -2254,6 +2254,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .c-mrkdwn__broadcast--mention{
     background: #9651f9 !important;
     color:white !important;
+     display: inline-block;
+    height: 20px;
+    line-height: 16px;
     }
     .c-mrkdwn__broadcast--mention:hover{
     background:#ec51f9;
