@@ -2478,4 +2478,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     border-left: 1px solid #464646 !important;}
     .c-texty_autocomplete__result{
     color:white !important}
-    
+    .overflow_ellipsis{
+    color:white !important}
