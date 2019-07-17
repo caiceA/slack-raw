@@ -721,6 +721,8 @@ a.file_download_link:hover {
     font-size: 17px;
    font-weight:700;
 }
+.p-channel_sidebar {
+    border-right: 1px solid #464646 !important;}
 .p-search_filter__date_readout {
     color: #ffb28a !important;
 }
@@ -2299,7 +2301,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-workspace--classic-nav .p-workspace__primary_view {
     grid-template-areas: "p-workspace__primary_view_contents";
     grid-template-rows: auto;
-    border-left: 1px solid #404040;}
+    }
     .p-member_profile_field {
     display: flex;
     padding: 0 16px 12px 16px;
@@ -2471,18 +2473,13 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     font-weight: 900;
     font-weight: 400;
     color: #ffffff !important;}
-    .p-classic_nav__drag {
-    -webkit-app-region: drag;
-    background: #222222;
-    color: white;
-    border-left: 1px solid #464646 !important;}
+  
     .c-texty_autocomplete__result{
     color:white !important}
     .overflow_ellipsis{
     color:white !important}
-    .p-classic_nav__drag {
-    -webkit-app-region: drag;
-    background: #222222;
-    color: white;
-    border-left: 1px solid #3c3c3c !important;
-}
+ .p-classic_nav__team_header{
+     border-right: 1px solid #404040 !important;
+     }
+.c-texty_autocomplete__result_highlight{
+background:#222222 !important}
