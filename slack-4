@@ -2406,3 +2406,22 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     background: #000000 !important;}
     c-search_autocomplete__query_parts .token:hover{
     color:black !important}
+    .p-classic_nav__model__title__name {
+    font-size: 18px;
+    line-height: 1.33334;
+    font-weight: 900;
+    display: inline-flex;
+    max-width: 100%;
+    align-items: baseline;
+    color: white !important;}
+    .p-classic_nav__model__title {
+    flex: 1;
+    min-width: 0;
+    color: white !important;}
+    .p-classic_nav__model__title__name__button {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: white !important;
+}
