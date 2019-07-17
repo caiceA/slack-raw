@@ -2471,3 +2471,11 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     font-weight: 900;
     font-weight: 400;
     color: #ffffff !important;}
+    .p-classic_nav__drag {
+    -webkit-app-region: drag;
+    background: #222222;
+    color: white;
+    border-left: 1px solid #464646 !important;}
+    .c-texty_autocomplete__result{
+    color:white !important}
+    
