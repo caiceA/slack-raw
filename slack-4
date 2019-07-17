@@ -2425,3 +2425,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     white-space: nowrap;
     color: white !important;
 }
+.p-channel_details__shared_files__empty {
+    color: rgba(255, 255, 255, 0.7)!important;}
