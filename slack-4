@@ -2437,3 +2437,37 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color: rgb(247, 183, 150) !important;}
     .p-classic_nav__team_messages_progress_bar_text{
     fill: white !important}
+.c-select_options_list__wrapper {
+    background-color: #4f4e4e !important; 
+    .c-select_options_list__option {
+    font-size: 15px;
+    line-height: 1.46668;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    color: #ffffff !important;}
+    .c-select_options_list__option--selected {
+    color: #1bf7ff !important;}
+     .c-basic-select{
+     margin-right:10px  }
+     .p-channel_browser_list_item {
+    display: flex;
+    min-height: 64px;
+    margin: 0 1px;
+    box-shadow: 0 -1px 0 0 #494848 !important;}
+    .p-message_pane_input__preview {
+    padding: 24px 30px;
+    background-color: #222222 !important;}
+    .p-message_pane_input__preview_metadata {
+    color: rgba(255, 255, 255, 0.7) !important;}
+    c-base_inline_entity__primary_content {
+    display: inline;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    color: #5ff2ff !important;}
+    .p-message_pane_input__preview_subtitle {
+    font-size: 18px;
+    line-height: 1.33334;
+    font-weight: 900;
+    font-weight: 400;
+    color: #ffffff !important;}
