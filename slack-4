@@ -2427,3 +2427,13 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 .p-channel_details__shared_files__empty {
     color: rgba(255, 255, 255, 0.7)!important;}
+    .p-classic_nav__team_menu__blurb__name, .p-classic_nav__team_menu__blurb__sub {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: white !important;}
+    .p-classic_nav__team_menu__blurb__sub {
+    color: rgb(247, 183, 150) !important;}
+    .p-classic_nav__team_messages_progress_bar_text{
+    fill: white !important}
