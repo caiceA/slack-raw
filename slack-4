@@ -2480,3 +2480,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color:white !important}
     .overflow_ellipsis{
     color:white !important}
+    .p-classic_nav__drag {
+    -webkit-app-region: drag;
+    background: #222222;
+    color: white;
+    border-left: 1px solid #3c3c3c !important;
+}
