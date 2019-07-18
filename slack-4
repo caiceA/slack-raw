@@ -6,6 +6,8 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+div.c-virtual_list__scroll_container{
+color:white}
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
    font-family: 'Muli', sans-serif !important;
 }
