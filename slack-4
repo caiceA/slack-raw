@@ -2492,3 +2492,6 @@ background:#222222 !important}
     .p-unreads_view__header {
     background: #373737;
     color: white;}
+.p-threads_flexpane__separator_count {
+    margin-right: 12px;
+    color: #a0a0a0;}
