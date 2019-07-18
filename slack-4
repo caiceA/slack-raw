@@ -6,6 +6,18 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.c-date_picker_calendar .c-calendar_view_header__title {
+    flex: 1 0 0;
+    color: white;}
+    .p-classic_nav__model__menu__jump__back{
+        color: #acacac;}
+        .c-date_picker_calendar__date {
+    background: #252525;
+    color: white;}
+    .c-date_picker_calendar__date{
+    border:1px solid black !important}
+    .c-date_picker_calendar__date--disabled:hover, .c-mini_calendar__month_button:disabled:hover {
+    background-color: #545454 !important;}
 div.c-virtual_list__scroll_container{
 color:white}
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
