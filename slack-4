@@ -6,6 +6,11 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.c-select_button {
+    background-color: black;
+    color: white;}
+.p-calls_settings_panel {
+    background-color: #222222 !important;}
 .c-message__call_attachment {
     border: 1px solid #000 !important;
     background: #353535 !important;
