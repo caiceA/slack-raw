@@ -6,6 +6,16 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.c-message__call_attachment {
+    border: 1px solid #000 !important;
+    background: #353535 !important;
+}
+.c-message__call_sub, .c-message__call_title{
+color:white;}
+.c-message__call_sub {
+       color: #ffb088 !important;}
+       .p-call_button_base--active{
+       background-color: #2c2d30 !important;}
 .c-date_picker_calendar .c-calendar_view_header__title {
     flex: 1 0 0;
     color: white;}
