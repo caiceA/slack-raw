@@ -10,6 +10,8 @@ body {
     border: 1px solid #000 !important;
     background: #353535 !important;
 }
+.c-input_text[disabled] {
+    background: #222222;}
 .c-message__call_sub, .c-message__call_title{
 color:white;}
 .c-message__call_sub {
