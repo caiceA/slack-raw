@@ -16,6 +16,9 @@ input.c-input_text[disabled], input[type=text].c-input_text[disabled], .p-prefs_
 background: #222222;
 color: #868686;
 }
+.p-reaction_menu {
+background-color: #222222 !important;
+}
 .c-select_button {
     background-color: black;
     color: white;}
