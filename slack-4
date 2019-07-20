@@ -9,6 +9,10 @@ body {
 .p-calls_settings_panel {
 background-color: #222222 !important;
 }
+.p-file_viewer__header__meta__name{
+color:white !important}
+.p-file_viewer__nav{
+background:#666 !important}
 .p-calls_invite_and_share_panel {
 background-color: #222222 !important;
 }
