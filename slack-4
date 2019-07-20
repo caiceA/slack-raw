@@ -6,6 +6,16 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-calls_settings_panel {
+background-color: #222222 !important;
+}
+.p-calls_invite_and_share_panel {
+background-color: #222222 !important;
+}
+input.c-input_text[disabled], input[type=text].c-input_text[disabled], .p-prefs_modal__downloads_input {
+background: #222222;
+color: #868686;
+}
 .c-select_button {
     background-color: black;
     color: white;}
