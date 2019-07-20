@@ -16,6 +16,19 @@ input.c-input_text[disabled], input[type=text].c-input_text[disabled], .p-prefs_
 background: #222222;
 color: #868686;
 }
+.p-calls_settings_panel {
+background-color: #222222 !important;
+color: #ffffff !important;
+}
+.p-calls_invite_and_share_panel {
+background-color: #222222 !important;
+color: #ffffff !important;
+}
+.p-reaction_menu {
+background-color: #222222 !important;
+color: #ffffff !important;
+}
+
 .p-reaction_menu {
 background-color: #222222 !important;
 }
