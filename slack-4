@@ -6,6 +6,9 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+ .CodeMirror-selected {
+    background-color: #60609F !important;
+  }
 .p-calls_settings_panel {
 background-color: #222222 !important;
 }
