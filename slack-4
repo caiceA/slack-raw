@@ -6,9 +6,18 @@ body {
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+ .CodeMirror-cursor {
+    border-left-color: rgba(255,255,255,1) !important;
+  }
  .CodeMirror-selected {
     background-color: #60609F !important;
   }
+  .c-dialog_speed_bump_overlay {
+    background: hsla(0, 0%, 0%, 0.7);}
+    .c-dialog_speed_bump {
+    background-color: #2b2b2b !important;
+    border-radius: 0 0 8px 8px;
+    border-top: 1px solid #4a4a4a !important;}
 .p-calls_settings_panel {
 background-color: #222222 !important;
 }
