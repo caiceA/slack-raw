@@ -507,13 +507,13 @@ p-search_filter__date:first-child {
     font-size: 14px !important;
 }
 
-.c-message--light .c-message__sender .c-message__sender_link::nth-child(1){
+.c-message--light .c-message__sender .c-message__sender_link:nth-child(1){
  color: #a4d677 !important;
 }
-.c-message--light .c-message__sender .c-message__sender_link::nth-child(2){
+.c-message--light .c-message__sender .c-message__sender_link:nth-child(2){
  color: #BF58FF!important;
 }
-.c-message--light .c-message__sender .c-message__sender_link::nth-child(3){
+.c-message--light .c-message__sender .c-message__sender_link:nth-child(3){
  color: #FFDB58!important;
 }
 
