@@ -9,9 +9,21 @@ body {
  .CodeMirror-cursor {
     border-left-color: rgba(255,255,255,1) !important;
   }
+  .p-call_subtype{
+  border: 1px solid #000 !important;
+    background-color: #3f3f3f !important;}
  .CodeMirror-selected {
     background-color: #60609F !important;
   }
+  .c-button--outline-primary {
+    transition: all 80ms linear;
+    background: #3b3b3b !important;
+    border: 1px solid rgba(0, 0, 0, 0.3) !important;}
+  .p-call_subtype__status, .p-call_subtype__title {
+  
+    color: white !important;}
+    .p-call_subtype__body, .p-call_subtype__footer {
+    border-top: 1px solid #292929 !important;}
   .c-dialog_speed_bump_overlay {
     background: hsla(0, 0%, 0%, 0.7);}
     .c-dialog_speed_bump {
