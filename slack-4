@@ -507,14 +507,8 @@ p-search_filter__date:first-child {
     font-size: 14px !important;
 }
 
-.c-message--light .c-message__sender .c-message__sender_link:nth-child(1){
+.c-message--light .c-message__sender .c-message__sender_link{
  color: #a4d677 !important;
-}
-.c-message--light .c-message__sender .c-message__sender_link:nth-child(2){
- color: #BF58FF!important;
-}
-.c-message--light .c-message__sender .c-message__sender_link:nth-child(3){
- color: #FFDB58!important;
 }
 
 
@@ -995,15 +989,9 @@ color:#a4d677 !important
             color: #ffffff !important;
         }
      
-         a.c-message__sender_link:nth-child(1){
+         a.c-message__sender_link{
             color: #a4d677 ;
-        }
-          a.c-message__sender_link:nth-child(2){
-            color: purple ;
-        }
-           a.c-message__sender_link:nth-child(3){
-            color: orange ;
-        }
+       
         .ql-editor[aria-label]{
             color: white !important;
         }
