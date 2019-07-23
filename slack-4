@@ -994,8 +994,15 @@ color:#a4d677 !important
             background: black !important;
             color: #ffffff !important;
         }
-        a.c-message__sender_link{
-            color: #a4d677 !important;
+     
+         a.c-message__sender_link:nth-child(1){
+            color: #a4d677 ;
+        }
+          a.c-message__sender_link:nth-child(2){
+            color: purple ;
+        }
+           a.c-message__sender_link:nth-child(3){
+            color: orange ;
         }
         .ql-editor[aria-label]{
             color: white !important;
