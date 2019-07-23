@@ -1,11 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap');
 body {
    font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-member_directory__search_filter_container{
+ background-color: #1a1a1a !important;
+}
+.p-member_directory__member_row {
+    background-color: #1a1a1a !important;
+    border-bottom: 1px solid #000 !important;}
+    .p-member_directory__member_row:focus, .p-member_directory__member_row:focus-within, .p-member_directory__member_row:hover {
+    background-color: #222222 !important;}
+    
  .CodeMirror-cursor {
     border-left-color: rgba(255,255,255,1) !important;
   }
