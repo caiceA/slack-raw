@@ -502,10 +502,23 @@ p-search_filter__date:first-child {
     color: white;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #a4d677 !important;
+
     font-weight: 700 !important;
     font-size: 14px !important;
 }
+
+.c-message--light .c-message__sender .c-message__sender_link::nth-child(1){
+ color: #a4d677 !important;
+}
+.c-message--light .c-message__sender .c-message__sender_link::nth-child(2){
+ color: #BF58FF!important;
+}
+.c-message--light .c-message__sender .c-message__sender_link::nth-child(3){
+ color: #FFDB58!important;
+}
+
+
+
 .light_theme ts-message .message_content .message_sender {
     color:  #a4d677 !important;
     text-transform: capitalize;
