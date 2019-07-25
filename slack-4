@@ -990,7 +990,7 @@ color:#a4d677 !important
         }
      
          a.c-message__sender_link{
-            color: #a4d677 ;
+            color: #a4d677 !important ;
        }
         .ql-editor[aria-label]{
             color: white !important;
