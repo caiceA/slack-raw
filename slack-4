@@ -543,7 +543,7 @@ p-search_filter__date:first-child {
 .p-channel_sidebar__section_heading_label--clickable:hover,
 .p-channel_sidebar__section_heading_label--unreads,
 .p-channel_sidebar__quickswitcher:hover {
-    color: white !importnat;
+    color: white !important;
 }
 .p-download_item__actions{
     background:none;
