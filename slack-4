@@ -8,6 +8,7 @@ body {
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+
 .p-member_directory__member_row {
     background-color: #1a1a1a !important;
     border-bottom: 1px solid #000 !important;}
@@ -17,12 +18,18 @@ body {
  .CodeMirror-cursor {
     border-left-color: rgba(255,255,255,1) !important;
   }
+  .p-team_sidebar, .p-team_sidebar--frameless::before {
+    background: rgb(14, 14, 14)!important;
+}
   .p-call_subtype{
   border: 1px solid #000 !important;
     background-color: #3f3f3f !important;}
  .CodeMirror-selected {
     background-color: #60609F !important;
   }
+  .p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover, .p-channel_sidebar__close_container:hover {
+    background: #313131 !important;
+}
   .c-button--outline-primary {
     transition: all 80ms linear;
     background: #3b3b3b !important;
