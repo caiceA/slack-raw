@@ -8,6 +8,13 @@ body {
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.p-team_sidebar__add_button {
+    background: rgb(31, 39, 27);
+    border-color: rgba(61, 158, 85, 0.3);}
+    .p-team_sidebar__add_button:hover, .p-team_sidebar__add_button:focus, .p-team_sidebar__add_button:active {
+    border-color: #FFFFFF;
+    background: rgb(0, 0, 0);
+    box-shadow: 0 0 0 3px rgb(87, 226, 117), 0 0 0 6px rgba(255,255,255,0.3);}
 
 .p-member_directory__member_row {
     background-color: #1a1a1a !important;
