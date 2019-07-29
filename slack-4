@@ -8,6 +8,10 @@ body {
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.p-message_pane_input__disabled {
+    background-color: #151515;
+    color: rgba(255, 255, 255, 0.7);
+    }
 .p-team_sidebar__add_button {
     background: rgb(31, 39, 27);
     border-color: rgba(61, 158, 85, 0.3);}
