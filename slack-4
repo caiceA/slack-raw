@@ -8,6 +8,8 @@ body {
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.c-fullscreen_modal__body{
+padding:0 !important}
 .p-message_pane_input__disabled {
     background-color: #151515;
     color: rgba(255, 255, 255, 0.7);
