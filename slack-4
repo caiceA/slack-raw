@@ -10,7 +10,7 @@ body {
 }
 ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
-    background: white;
+    background: white !important;
 }
 .c-fullscreen_modal__body{
 padding:0 !important}
