@@ -12,6 +12,11 @@ ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
     background: white !important;
 }
+ts-rocket .text.pre+.pre{
+background:white !important;
+}
+ts-rocket .pre.text.first, ts-rocket.post_body .pre.text.first, ts-rocket.post_body>div>pre.first, ts-rocket>div>pre.first{
+background:white !important;}
 ts-rocket div.text *, ts-rocket.post_body div.text *{
 background: white !important;
     color: black !important;
