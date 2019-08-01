@@ -12,6 +12,12 @@ ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
     background: white !important;
 }
+.c-texty_input .ql-editor pre {
+    padding: 8px;
+    background: white;
+    color: black;}
+    .p-docs_editor_title .ql-editor p, .p-docs_editor_title .ql-editor~.ql-placeholder{
+    color:black !important}
 ts-rocket .text.pre+.pre{
 background:white !important;
 }
