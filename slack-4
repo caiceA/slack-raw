@@ -12,6 +12,10 @@ ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
     background: white !important;
 }
+ts-rocket div.text *, ts-rocket.post_body div.text *{
+background: white !important;
+    color: black !important;
+}
 .c-fullscreen_modal__body{
 padding:0 !important}
 .p-message_pane_input__disabled {
