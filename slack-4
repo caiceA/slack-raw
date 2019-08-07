@@ -8,6 +8,16 @@ body {
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.p-user_group_list__search{
+    background: #222;}
+    .p-user_group_base_row__list_item {
+    width: 100%;
+    background-color: #222222 !important;
+    border-bottom: 1px solid #323232 !important; }
+    .p-user_group_list__search {
+    border-bottom: 1px solid #686868 !important;}
+    .p-user_group_row:hover {
+    background-color: #282828 !important;}
 ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
     background: white !important;
