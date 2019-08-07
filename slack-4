@@ -18,6 +18,9 @@ body {
     border-bottom: 1px solid #686868 !important;}
     .p-user_group_row:hover {
     background-color: #282828 !important;}
+ .p-user_group_list {
+    background: #222222;
+    color: white;}
 ts-space header .owner_detail .offscreen.js_editable_text+.inline-edit {
     display: inline-block;
     background: white !important;
