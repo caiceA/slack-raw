@@ -2662,3 +2662,5 @@ background:#222222 !important}
 .p-threads_flexpane__separator_count {
     margin-right: 12px;
     color: #a0a0a0;}
+.p-classic_nav__team_header__team__name{
+letter-spacing:-0.7px !important}
