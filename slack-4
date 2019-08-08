@@ -8,8 +8,20 @@ body {
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.p-message_pane_input_broadcast_warning{
+background:#202020;}
 .p-user_group_list__search{
     background: #222;}
+    .p-message_pane_input_broadcast_warning__highlight {
+    background: #8349d9;
+    display: inline-block;
+    padding: 0 3px;
+    line-height: 20px;
+    border-radius: 3px;
+    position: relative;
+    top: 2px;
+    height: 21px;
+}
     .p-user_group_base_row__list_item {
     width: 100%;
     background-color: #222222 !important;
