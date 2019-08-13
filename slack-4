@@ -5,11 +5,17 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.c-sk-modal_header, .c-sk-modal_footer{
+background:#222222 !important}
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
+.c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover{
+background: #3c3c3c !important;}
 .p-message_pane_input_broadcast_warning{
 background:#202020;}
+.c-select_input__content_text{
+color:white;}
 .p-user_group_list__search{
     background: #222;}
     .p-message_pane_input_broadcast_warning__highlight {
