@@ -1340,10 +1340,12 @@ color:#a4d677 !important
     color:white !important
     }
     .c-message_list__unread_divider__label {
-   background: #f81111;
+   background: #d5376e;
     border: 1px solid transparent;
     text-transform: capitalize;
     box-shadow: 0 8px 16px rgba(0,0,0,0.4);}
+    .c-message_list__unread_divider__separator{
+    border-coilor:  #d5376e;}
     .c-message_list__unread_divider__label{
     color:white;
         padding: 3px 4px 6px;
