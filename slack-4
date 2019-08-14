@@ -9,6 +9,8 @@ font-family: 'Muli', sans-serif !important;
     background-color:black !important;}
 .c-sk-modal_header, .c-sk-modal_footer{
 background:#222222 !important}
+.p-channel_details__apps_section .p-channel_details_section__icon {
+    color: #8f9b36;}
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
