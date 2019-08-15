@@ -8,6 +8,15 @@ font-family: 'Muli', sans-serif !important;
 .workspace__primary_view_footer{
 background:#222222 !important
 }
+.p-app_dialog__title_text{
+color:white !important}
+.p-call_subtype__description {
+    font-size: 15px;
+    line-height: 1.46668;
+    font-weight: 400;
+    color: #c0bfc0;}
+.c-unified_member__secondary-name--small, .c-usergroup__description--small{
+color:white !important}
 .p-dm_browser_modal__list_row--active {
     background-color:black !important;}
 .c-sk-modal_header, .c-sk-modal_footer{
