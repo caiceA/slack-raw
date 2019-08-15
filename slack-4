@@ -5,6 +5,21 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+ul li {
+color:white;}
+.c-channel_search__new_feature_alert {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #3b3b3b;
+    color: white;}
+.p-search_filter__option_label {
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    color: #36D4F6 !important;}
 .workspace__primary_view_footer{
 background:#222222 !important
 }
