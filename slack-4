@@ -5,6 +5,11 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.c-message__resend_column {
+    width: 4px;
+    background-color: #f00 !important;}
+.c-message--unprocessed .c-message__body {
+    animation: none !important;}
 ul li {
 color:white;}
 .c-channel_search__new_feature_alert {
@@ -920,8 +925,8 @@ a.file_download_link:hover {
     color: white !important;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
-    border-left: 2px solid #ff5656;
-    padding-left: 6px;
+    border-left: 2px solid #ff0000;
+    padding-left: 5px;
     height: 20px;
     overflow: hidden;
     line-height: 16px;
