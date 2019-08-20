@@ -10,6 +10,15 @@ font-family: 'Muli', sans-serif !important;
     background-color: #f00 !important;}
 .c-message--unprocessed .c-message__body {
     animation: none !important;}
+    .c-select_options_list__option--disabled:hover {
+    cursor: default;
+    background-color: #303030;}
+    .c-base_list_entity--dim {
+    color: #959595;}
+    .c-base_list_entity--highlight-dim, .c-base_list_entity--highlight-light{
+   background: transparent !important}
+   .c-base_list_entity--highlight-dim {
+    color: grey;}
 ul li {
 color:white;}
 .c-channel_search__new_feature_alert {
