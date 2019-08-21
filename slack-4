@@ -5,6 +5,12 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-channel_details__members_dialog__search {
+    background: #222222;
+    margin-bottom:0 !important;
+    padding-bottom:20px !important}
+    .p-channel_details__members_dialog__list--indicate-top {
+    border-top: transparent !important;}
 .c-pillow_file__snippet__content .CodeMirror{
 background-color:black!important}
 .p-channel_details__similar_channels_channel :hover {
