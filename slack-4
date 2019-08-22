@@ -1002,7 +1002,8 @@ box-shadow: inset 0 0 0 1px #ff5232 !important;
 }
 .c-button--outline:hover {
 box-shadow: none !important;
-background: green !important;
+    background: #149074 !important;
+    border:1px solid #149074 !important;
 }
 .rxn.user_reacted .emoji_rxn_count{
     color:white !important;
