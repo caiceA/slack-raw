@@ -11,6 +11,8 @@ font-family: 'Muli', sans-serif !important;
     padding-bottom:20px !important}
     .p-channel_details__members_dialog__list--indicate-top {
     border-top: transparent !important;}
+    .p-classic_nav__channel_header__title{
+    color: white !important;}
    .p-classic_nav__model__title__info__members.c-button--focus-visible:focus, .p-classic_nav__model__title__info__members:hover, .p-classic_nav__model__title__info__pins.c-button--focus-visible:focus, .p-classic_nav__model__title__info__pins:hover, .p-classic_nav__model__title__info__shared_teams.c-button--focus-visible:focus, .p-classic_nav__model__title__info__shared_teams:hover{color:white}
 .c-pillow_file__snippet__content .CodeMirror{
 background-color:black!important}
