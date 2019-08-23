@@ -10,6 +10,8 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
     background: none;}
 .c-message__editor__input.focus{
 background: transparent;}
+.p-channel_details__notification_prefs_section__pref, .p-channel_details__notification_prefs_section__pref_label{
+color:white}
 .c-select_button {
     background-color: black !important;}
     
