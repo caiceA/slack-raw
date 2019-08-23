@@ -20,7 +20,7 @@ Color:white}
 textarea.c-input_textarea.c-input_textarea—with_hint{
 background:transparent;}
 }
-.p-workspace__primary_view_body, .p-classic_nav__channel_header, .p-classic_nav__right_header{
+.p-workspace__primary_view_body, .p-classic_nav__channel_header, .p-classic_nav__right_header, .p-classic_nav__channel_header, .p-classic_nav__right_header{
 background:#222222}
 .p-unreads_view__header{
 background: #303030;}
