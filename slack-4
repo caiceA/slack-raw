@@ -12,7 +12,15 @@ background:#222222}
     margin-bottom:0 !important;
     padding-bottom:20px !important}
     .p-threads_view_empty{
-    background:#222222}
+    background:#222222;
+        position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;}
     .p-channel_details__members_dialog__list--indicate-top {
     border-top: transparent !important;}
     .p-classic_nav__channel_header__title{
