@@ -5,6 +5,16 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.c-message__editor__input.focus{
+background: transparent;}
+
+.p-classic_nav__model__title__is_you{
+Color:white}
+.p-classic_nav__model__title__info__secondary_name{
+Color:white}
+.textarea.c-input_textarea.c-input_textarea—with_hint{
+Background:transparent;}
+}
 .p-workspace__primary_view_body, .p-classic_nav__channel_header, .p-classic_nav__right_header{
 background:#222222}
 .p-unreads_view__header{
