@@ -7,7 +7,9 @@ font-family: 'Muli', sans-serif !important;
 }
 .c-message__editor__input.focus{
 background: transparent;}
-
+.c-select_button {
+    background-color: black !important;}
+    
 .p-classic_nav__model__title__is_you{
 Color:white}
 .p-classic_nav__model__title__info__secondary_name{
