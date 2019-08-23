@@ -9,6 +9,8 @@ font-family: 'Muli', sans-serif !important;
     background: #222222;
     margin-bottom:0 !important;
     padding-bottom:20px !important}
+    .p-threads_view_empty{
+    background:#222222}
     .p-channel_details__members_dialog__list--indicate-top {
     border-top: transparent !important;}
     .p-classic_nav__channel_header__title{
