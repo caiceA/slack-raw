@@ -5,6 +5,8 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-classic_nav__channel_header, .p-classic_nav__right_header{
+background:#222222;}
 textarea.c-input_textarea.c-input_textarea--with_hint {
     color: white;
     background: none;}
