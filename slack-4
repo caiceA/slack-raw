@@ -14,7 +14,7 @@ background: transparent;}
 Color:white}
 .p-classic_nav__model__title__info__secondary_name{
 Color:white}
-.textarea.c-input_textarea.c-input_textarea—with_hint{
+textarea.c-input_textarea.c-input_textarea—with_hint{
 background:transparent;}
 }
 .p-workspace__primary_view_body, .p-classic_nav__channel_header, .p-classic_nav__right_header{
