@@ -204,6 +204,9 @@ padding:0 !important}
   .p-call_subtype__status, .p-call_subtype__title {
   
     color: white !important;}
+    .p-unreads_view__empty{
+    background:#222 !important;
+    color:white }
     .p-call_subtype__body, .p-call_subtype__footer {
     border-top: 1px solid #292929 !important;}
   .c-dialog_speed_bump_overlay {
