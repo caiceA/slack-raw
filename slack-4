@@ -28,8 +28,7 @@ background:transparent;}
 background:#222222}
 .p-unreads_view__empty{
 background: #222;
-color: white;
-}
+color: white;}
 .p-unreads_view__header{
 background: #303030;}
 .c-button-unstyled{
