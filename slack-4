@@ -682,7 +682,8 @@ p-search_filter__date:first-child {
 }
 
 .c-message--light .c-message__sender .c-message__sender_link{
- color: #a4d677 !important;
+ color: #a4d677 !important
+ text-transform: capitalize;
 }
 
 
