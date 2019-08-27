@@ -2548,7 +2548,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     color:white !important}
     .p-flexpane__body--empty {
     align-items: center;
-    background-color: #141414 . !important;
+    background-color: #141414  !important;
     display: flex;
     flex-flow: column;
     justify-content: center;
