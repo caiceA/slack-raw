@@ -5,6 +5,10 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-context_bar {
+    color: white !important;
+    background: #626262 !important;
+    border: 1px solid black !important;}
 .p-classic_nav__model__title__name--dim {
   
     color: #636363 !important;
@@ -500,26 +504,26 @@ ts-message .mention {
 }
 .c-search__input_and_close {
     background: #2b2c2e!important;
-    color white !important;
+    color: white !important;
 }
 .c-search__input_box {
     background: #2b2c2e!important;
-    color white !important;
+    color: white !important;
 }
 
 .c-search_autocomplete {
     background: #232323!important;
-    color white !important;
+    color: white !important;
 }
 .c-search_autocomplete footer {
     background: #3B3B3B!important;
-    color white !important;
+    color: white !important;
 }
 .c-search_autocomplete__suggestion_text {
-    color white !important;
+    color: white !important;
 }
 .c-search_autocomplete__suggestion_content .c-search_autocomplete__suggestion_text {
-    color white !important;
+    color: white !important;
 }
 .c-search_autocomplete header {
     background: #232323!important;
@@ -727,8 +731,7 @@ p-search_filter__date:first-child {
     background:none;
 }
 .c-message__body {
-    margin: 4px 0 -4px;
-    !important
+    margin: 4px 0 -4px    !important;
 }
 .p-file_list a {
     color: green !important;
@@ -882,7 +885,7 @@ a:hover {
     max-width: 600px;
 }
 .p-file_list__empty {
-    background #222222 !important;
+    background: #222222 !important;
 }
 code {
     color: #29ffe8!important;
@@ -1151,7 +1154,7 @@ color:white !important;
     color: white;
 }
 #reply_container .inline_message_input_container .message_input div, #reply_container .inline_message_input_container textarea, .reply_input_container .inline_message_input_container .message_input div, .reply_input_container .inline_message_input_container textarea{
-    colo:white !important;
+    color:white !important;
     opacity:1 !important;
 }
 .c-timestamp__label{
@@ -1448,7 +1451,7 @@ color:#a4d677 !important
     text-transform: capitalize;
     box-shadow: 0 8px 16px rgba(0,0,0,0.4);}
     .c-message_list__unread_divider__separator{
-    border-coilor:  #d5376e;}
+    border-color:  #d5376e;}
     .c-message_list__unread_divider__label{
     color:white;
         padding: 3px 4px 6px;
@@ -1527,7 +1530,7 @@ color:#a4d677 !important
         color:white 
         }
         .c-reaction_add{
-        opacity:1
+        opacity:1;
         background:#656565;
         }
         .c-reaction:hover {
@@ -2569,5 +2572,3 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-member_profile_card {
     box-shadow: 0 0 0 1px rgba(0,0,0,.08), 0 4px 12px 0 rgba(0,0,0,.08);
     background: #333;}
-    .p-member_profile_field__label {
-    
