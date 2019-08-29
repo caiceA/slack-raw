@@ -5,6 +5,7 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-member_profile_field__label, .p-member_profile_field__value, .p-member_profile_field__primary, .p-member_profile_name__subtitle{color:white !important}
 .p-context_bar {
     color: white !important;
     background: #626262 !important;
