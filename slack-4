@@ -6,8 +6,12 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing: auto;
 }
 .c-select_options_list__wrapper .c-select_options_list {
-background-color: #222222e6;
+background-color: #222222;
 }
+.p-dm_browser_modal__list_heading, .c-truncate{
+color:white !important}
+.p-dm_browser_modal__list_row_meta{
+color:grey !important}
 .c-multi_select_input--large {
 background-color: #222222;
 }
