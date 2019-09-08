@@ -8,6 +8,9 @@ font-family: 'Muli', sans-serif !important;
 .c-select_options_list__wrapper .c-select_options_list {
 background-color: #222222e6;
 }
+.c-multi_select_input--large {
+background-color: #222222;
+}
 .p-member_profile_name__title{
 color:white;}
 .c-date_picker__dropdown {
