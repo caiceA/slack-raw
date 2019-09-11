@@ -5,6 +5,12 @@ font-family: 'Muli', sans-serif !important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
+.p-classic_nav__team_menu__blurb__sub {
+   color: #66c79e;}
+   .p-classic_nav__team_menu__blurb__name {
+    font-weight: 900;
+    color: white;}
+    
 .c-select_options_list__wrapper .c-select_options_list {
 background-color: #222222;
 }
