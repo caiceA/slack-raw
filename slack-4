@@ -4,6 +4,7 @@ font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
+    font-weight:300;
 }
 .p-classic_nav__team_menu__blurb__sub {
    color: #66c79e;}
@@ -434,10 +435,10 @@ ts-message .mention {
 .c-member_slug--link {
       background: transparent;
    color: #fcc973!important;
-    font-weight: 600 !important;
+    font-weight: 500 !important;
     border: none !important;
     font-size:13px;
-  padding: 0px 2px 1px 2px;
+  padding: 0px px 1px 1px;
    }
    .c-member_slug--link:hover {
     background: #de5ea2; color:white !important}
@@ -2453,8 +2454,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     padding-left: 43px;
     z-index: 200;
     color: white;}
-    .c-member_slug--link{
-    font-size:14.6px !important}
+  
     .c-texty_autocomplete {
     background: #000;}
     .c-texty_autocomplete__help {
