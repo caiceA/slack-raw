@@ -3,7 +3,7 @@ body {
 font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
-    -webkit-font-smoothing: auto;
+    -webkit-font-smoothing:antialiased;
     font-weight:300;
 }
 
@@ -2448,7 +2448,8 @@ ts-message .internal_member_link:hover {
 span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
     color: white;
     font-size: 14px;
-    letter-spacing: 0 !important;}
+    letter-spacing: 0 !important;
+    font-weight:400;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
     background: #222222 !important;}
     .p-workspace__input .p-message_input_field {
