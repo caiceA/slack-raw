@@ -6,6 +6,7 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing: auto;
     font-weight:300;
 }
+
 .c-message_attachment__title, b {
     font-weight: 500 !important;}
     .p-channel_details_section__title-content {
@@ -447,8 +448,8 @@ ts-message .mention {
    color: #fcc973!important;
     font-weight: 500 !important;
     border: none !important;
-    font-size:13px;
-  padding: 0px px 1px 1px;
+    font-size:14px;
+  padding: 0;
    }
    .c-member_slug--link:hover {
     background: #de5ea2; color:white !important}
@@ -2446,8 +2447,8 @@ ts-message .internal_member_link:hover {
 }
 span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span {
     color: white;
-    font-size: 14.6px;
-    letter-spacing: -0.3px !important;}
+    font-size: 14px;
+    letter-spacing: 0 !important;}
     .p-workspace--classic-nav .p-workspace__primary_view_footer {
     background: #222222 !important;}
     .p-workspace__input .p-message_input_field {
