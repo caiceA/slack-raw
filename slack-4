@@ -6,11 +6,21 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing: auto;
     font-weight:300;
 }
+.c-message_attachment__title, b {
+    font-weight: 500 !important;}
+    .p-channel_details_section__title-content {
+    font-size: 16px;}
 .p-classic_nav__team_menu__blurb__sub {
    color: #66c79e;}
    .p-classic_nav__team_menu__blurb__name {
     font-weight: 900;
     color: white;}
+    .p-flexpane_header__primary {
+    font-size: 16px;
+    line-height: 1.33334;
+    font-weight: 500;}
+    .p-channel_sidebar--classic_nav .p-channel_sidebar__section_heading_label, .p-channel_sidebar--global_nav .p-channel_sidebar__section_heading_label {
+    font-weight: 500 !important;}
     
 .c-select_options_list__wrapper .c-select_options_list {
 background-color: #222222;
