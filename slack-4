@@ -6,6 +6,8 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing:antialiased;
     font-weight:400;
 }
+.c-message__editor__input {
+    background: transparent;}
 c-input_character_count__characters-remaining{
 display:none}
 .c-base_entity__metadata {
