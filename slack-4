@@ -6,6 +6,8 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing:antialiased;
     font-weight:400;
 }
+.c-message_list__day_divider__line {
+    border-style: dashed;
 .c-message__editor__input {
     background: transparent;}
 c-input_character_count__characters-remaining{
@@ -2615,3 +2617,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-member_profile_card {
     box-shadow: 0 0 0 1px rgba(0,0,0,.08), 0 4px 12px 0 rgba(0,0,0,.08);
     background: #333;}
+.p-channel_sidebar {
+    border-right: 0 !important;}
