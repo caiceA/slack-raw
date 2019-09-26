@@ -6,6 +6,10 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing:antialiased;
     font-weight:400;
 }
+.p-classic_nav__team_header__team__name{
+color:white !important}
+.p-classic_nav__team_header__team__name{
+color:white !important}
 .p-classic_nav__channel_header, .p-classic_nav__right_header{
 box-shadow:none !important}
 .c-message_list__day_divider__line {
