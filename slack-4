@@ -6,6 +6,10 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing:antialiased;
     font-weight:400;
 }
+.c-input_select.c-message_attachment__select {
+
+    border: 1px solid rgb(99, 99, 99);
+   }
 .p-classic_nav__no_drag {
     -webkit-app-region: no-drag;
     color: white;}
