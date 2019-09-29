@@ -10,6 +10,8 @@ font-family: 'Muli', sans-serif !important;
 
     border: 1px solid rgb(99, 99, 99);
    }
+   .c-select_options_list__wrapper {
+    background-color: black !important;}
    .c-multi_select_input{
    background:transparent}
    .p-classic_nav__right__search:not(.p-classic_nav__right__search--dark):hover .p-classic_nav__right__search__icon {
