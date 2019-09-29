@@ -10,6 +10,8 @@ font-family: 'Muli', sans-serif !important;
 
     border: 1px solid rgb(99, 99, 99);
    }
+   .p-classic_nav__right__search:not(.p-classic_nav__right__search--dark):hover .p-classic_nav__right__search__icon {
+    color: white;}
 .p-classic_nav__no_drag {
     -webkit-app-region: no-drag;
     color: white;}
