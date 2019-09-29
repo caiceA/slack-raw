@@ -6,6 +6,9 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing:antialiased;
     font-weight:400;
 }
+.p-classic_nav__no_drag {
+    -webkit-app-region: no-drag;
+    color: white;}
 .p-workspace--classic-nav .p-workspace__primary_view {
  
     border-left: 1px solid #404040;}
