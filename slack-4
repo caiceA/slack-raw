@@ -6,6 +6,9 @@ font-family: 'Muli', sans-serif !important;
     -webkit-font-smoothing:antialiased;
     font-weight:400;
 }
+.p-workspace--classic-nav .p-workspace__primary_view {
+ 
+    border-left: 1px solid #404040;}
 .c-message__editor__input {
     background: transparent !important;}
 .p-classic_nav__team_header__team__name{
