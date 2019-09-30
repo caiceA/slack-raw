@@ -4,13 +4,12 @@ font-family: 'Muli', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing:antialiased;
-    font-weight:400;
-}
+    font-weight:400;}
 .c-input_select.c-message_attachment__select {
-
-    border: 1px solid rgb(99, 99, 99);
-   }
-   .c-select_options_list__wrapper {
+    border: 1px solid rgb(99, 99, 99);}
+   .c-base_inline_entity__primary_content{
+       color: #36D4F6 !important;}
+   .c-select_options_list__wrapper{
     background-color: black !important;}
    .c-multi_select_input{
    background:transparent}
@@ -20,7 +19,6 @@ font-family: 'Muli', sans-serif !important;
     -webkit-app-region: no-drag;
     color: white;}
 .p-workspace--classic-nav .p-workspace__primary_view {
- 
     border-left: 1px solid #404040;}
 .c-message__editor__input {
     background: transparent !important;}
