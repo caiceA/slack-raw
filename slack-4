@@ -12,7 +12,7 @@ font-family: 'Muli', sans-serif !important;
     background: #4a3442;
     border: 1px dashed #946969;}
     .p-classic_nav__model__title__name--dim {
-    color: color}
+    color: white}
 .c-input_select.c-message_attachment__select {
     border: 1px solid rgb(99, 99, 99);}
    .c-base_inline_entity__primary_content{
