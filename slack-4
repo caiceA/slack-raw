@@ -7,6 +7,10 @@ font-family: 'Muli', sans-serif !important;
     font-weight:400;}
     .p-classic_nav__right__search:not(.p-classic_nav__right__search--dark):hover .p-classic_nav__right__search__text {
     color: white;}
+    p-context_bar {
+    color: white;
+    background: #0c0c0c;
+    border: 1px dashed #656565;}
     .p-classic_nav__model__title__name--dim {
     color: color}
 .c-input_select.c-message_attachment__select {
