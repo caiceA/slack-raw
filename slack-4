@@ -7,6 +7,9 @@ font-family: 'Muli', sans-serif !important;
     font-weight:400;}
     .p-classic_nav__right__search:not(.p-classic_nav__right__search--dark):hover .p-classic_nav__right__search__text {
     color: white;}
+    .c-message_kit__gutter {
+    display: flex;
+    background: #222222 !important;}
 .p-context_bar {
     color: white;
     background: #4a3442;
