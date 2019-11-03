@@ -7,9 +7,32 @@ font-family: 'Muli', sans-serif !important;
     font-weight:400;}
     .p-classic_nav__right__search:not(.p-classic_nav__right__search--dark):hover .p-classic_nav__right__search__text {
     color: white;}
+    .c-select_options_list__option {
+    color: white;}
     .c-message_kit__gutter {
     display: flex;
     background: #222222 !important;}
+    .p-channel_name_input__input_subtext, .p-channel_name_input__prefix_description {
+    color: white !important;
+}
+.p-dm_browser_modal__list_row_meta {
+ 
+    color: white !important;
+}
+.p-dm_browser_modal__list_heading {
+
+    color: white;}
+.p-channel_name_input__label_title strong {
+    color: white;}
+p-channel_create_modal__input_subtext {
+    color: grey;
+}
+.p-channel_create_modal__label_title strong {
+    color: white;
+}
+.p-channel_create_modal__label_title {
+
+    color: white !important;}
 .p-context_bar {
     color: white;
     background: #4a3442;
