@@ -18,8 +18,11 @@ font-family: 'Muli', sans-serif !important;
 .c-texty_input.c-texty_input--sticky_composer.focus .ql-buttons, .c-texty_input.c-texty_input--sticky_composer.focus .ql-composer-sticky {
     background: #1f1f1f;
 }
-div.c-message.c-message--light.c-message--hover {
+.c-message--hover {
     color: #d6d6d6 !important;
+}
+.c-icon {
+    color: #696969 !important;
 }
 .p-dm_browser_modal__list_row_meta {
  
